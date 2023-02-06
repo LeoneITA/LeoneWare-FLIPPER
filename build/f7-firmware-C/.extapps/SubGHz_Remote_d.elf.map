@@ -1,0 +1,1054 @@
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .text.keeloq_reset_mfname
+                0x0000000000000000        0x2 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .text.keeloq_reset_kl_type
+                0x0000000000000000        0x2 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .text.star_line_reset_mfname
+                0x0000000000000000        0x2 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .text.star_line_reset_kl_type
+                0x0000000000000000        0x2 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+LOAD build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+
+.text           0x0000000000000000     0x13b8
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text.input_callback
+                0x0000000000000000       0x10 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .text.render_callback
+                0x0000000000000010      0x2ac build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .text.cfg_read_file_path
+                0x00000000000002bc       0xcc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .text.cfg_read_file_label
+                0x0000000000000388       0xa8 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .text.unirfremix_preset_alloc
+                0x0000000000000430       0x24 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+                0x0000000000000430                unirfremix_preset_alloc
+ .text.unirfremix_preset_free
+                0x0000000000000454       0x20 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+                0x0000000000000454                unirfremix_preset_free
+ .text.unirfremix_cfg_set_check
+                0x0000000000000474      0x360 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+                0x0000000000000474                unirfremix_cfg_set_check
+ .text.unirfremix_set_preset
+                0x00000000000007d4       0x98 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+                0x00000000000007d4                unirfremix_set_preset
+ .text.unirfremix_key_load
+                0x000000000000086c      0x1d8 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+                0x000000000000086c                unirfremix_key_load
+ .text.unirfremix_save_protocol_to_file
+                0x0000000000000a44       0xd8 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+                0x0000000000000a44                unirfremix_save_protocol_to_file
+ .text.unirfremix_tx_stop
+                0x0000000000000b1c       0xec build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+                0x0000000000000b1c                unirfremix_tx_stop
+ .text.unirfremix_subghz_alloc
+                0x0000000000000c08       0x7c build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+                0x0000000000000c08                unirfremix_subghz_alloc
+ .text.unirfremix_alloc
+                0x0000000000000c84       0x88 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+                0x0000000000000c84                unirfremix_alloc
+ .text.unirfremix_free
+                0x0000000000000d0c       0xac build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+                0x0000000000000d0c                unirfremix_free
+ .text.unirfremix_app
+                0x0000000000000db8      0x600 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+                0x0000000000000db8                unirfremix_app
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x00000000000013b8      0x816
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.render_callback.str1.1
+                0x00000000000013b8       0xcf build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .rodata.cfg_read_file_path.str1.1
+                0x0000000000001487       0x35 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .rodata.cfg_read_file_label.str1.1
+                0x00000000000014bc        0xd build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .rodata.unirfremix_cfg_set_check.str1.1
+                0x00000000000014c9       0xe6 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .rodata.unirfremix_set_preset.str1.1
+                0x00000000000015af       0xe7 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .rodata.unirfremix_key_load.str1.1
+                0x0000000000001696      0x115 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .rodata.unirfremix_save_protocol_to_file.str1.1
+                0x00000000000017ab       0x38 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .rodata.unirfremix_tx_stop.str1.1
+                0x00000000000017e3       0x51 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .rodata.unirfremix_subghz_alloc.str1.1
+                0x0000000000001834       0xaa build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .rodata.unirfremix_alloc.str1.1
+                0x00000000000018de       0x11 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .rodata.unirfremix_app.str1.1
+                0x00000000000018ef      0x191 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .rodata.I_ButtonDown_7x4
+                0x0000000000001a80        0x8 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001a80                I_ButtonDown_7x4
+ .rodata.I_ButtonLeft_4x7
+                0x0000000000001a88        0x8 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001a88                I_ButtonLeft_4x7
+ .rodata.I_ButtonRight_4x7
+                0x0000000000001a90        0x8 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001a90                I_ButtonRight_4x7
+ .rodata.I_ButtonUp_7x4
+                0x0000000000001a98        0x8 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001a98                I_ButtonUp_7x4
+ .rodata.I_Ok_btn_9x9
+                0x0000000000001aa0        0x8 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001aa0                I_Ok_btn_9x9
+ .rodata.I_Pin_arrow_down_7x9
+                0x0000000000001aa8        0x8 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001aa8                I_Pin_arrow_down_7x9
+ .rodata.I_Pin_arrow_left_9x7
+                0x0000000000001ab0        0x8 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001ab0                I_Pin_arrow_left_9x7
+ .rodata.I_Pin_arrow_right_9x7
+                0x0000000000001ab8        0x8 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001ab8                I_Pin_arrow_right_9x7
+ .rodata.I_Pin_arrow_up_7x9
+                0x0000000000001ac0        0x8 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001ac0                I_Pin_arrow_up_7x9
+ .rodata.I_Pin_cell_13x13
+                0x0000000000001ac8        0x8 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001ac8                I_Pin_cell_13x13
+ .rodata.I_Pin_star_7x7
+                0x0000000000001ad0        0x8 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001ad0                I_Pin_star_7x7
+ .rodata.I_back_10px
+                0x0000000000001ad8        0x8 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001ad8                I_back_10px
+ .rodata.I_sub1_10px
+                0x0000000000001ae0        0x8 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001ae0                I_sub1_10px
+ .rodata._I_ButtonDown_7x4
+                0x0000000000001ae8        0x4 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001ae8                _I_ButtonDown_7x4
+ .rodata._I_ButtonDown_7x4_0
+                0x0000000000001aec        0x5 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001aec                _I_ButtonDown_7x4_0
+ *fill*         0x0000000000001af1        0x3 
+ .rodata._I_ButtonLeft_4x7
+                0x0000000000001af4        0x4 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001af4                _I_ButtonLeft_4x7
+ .rodata._I_ButtonLeft_4x7_0
+                0x0000000000001af8        0x8 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001af8                _I_ButtonLeft_4x7_0
+ .rodata._I_ButtonRight_4x7
+                0x0000000000001b00        0x4 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001b00                _I_ButtonRight_4x7
+ .rodata._I_ButtonRight_4x7_0
+                0x0000000000001b04        0x8 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001b04                _I_ButtonRight_4x7_0
+ .rodata._I_ButtonUp_7x4
+                0x0000000000001b0c        0x4 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001b0c                _I_ButtonUp_7x4
+ .rodata._I_ButtonUp_7x4_0
+                0x0000000000001b10        0x5 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001b10                _I_ButtonUp_7x4_0
+ *fill*         0x0000000000001b15        0x3 
+ .rodata._I_Ok_btn_9x9
+                0x0000000000001b18        0x4 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001b18                _I_Ok_btn_9x9
+ .rodata._I_Ok_btn_9x9_0
+                0x0000000000001b1c       0x13 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001b1c                _I_Ok_btn_9x9_0
+ *fill*         0x0000000000001b2f        0x1 
+ .rodata._I_Pin_arrow_down_7x9
+                0x0000000000001b30        0x4 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001b30                _I_Pin_arrow_down_7x9
+ .rodata._I_Pin_arrow_down_7x9_0
+                0x0000000000001b34        0xa build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001b34                _I_Pin_arrow_down_7x9_0
+ *fill*         0x0000000000001b3e        0x2 
+ .rodata._I_Pin_arrow_left_9x7
+                0x0000000000001b40        0x4 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001b40                _I_Pin_arrow_left_9x7
+ .rodata._I_Pin_arrow_left_9x7_0
+                0x0000000000001b44        0xf build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001b44                _I_Pin_arrow_left_9x7_0
+ *fill*         0x0000000000001b53        0x1 
+ .rodata._I_Pin_arrow_right_9x7
+                0x0000000000001b54        0x4 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001b54                _I_Pin_arrow_right_9x7
+ .rodata._I_Pin_arrow_right_9x7_0
+                0x0000000000001b58        0xf build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001b58                _I_Pin_arrow_right_9x7_0
+ *fill*         0x0000000000001b67        0x1 
+ .rodata._I_Pin_arrow_up_7x9
+                0x0000000000001b68        0x4 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001b68                _I_Pin_arrow_up_7x9
+ .rodata._I_Pin_arrow_up_7x9_0
+                0x0000000000001b6c        0xa build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001b6c                _I_Pin_arrow_up_7x9_0
+ *fill*         0x0000000000001b76        0x2 
+ .rodata._I_Pin_cell_13x13
+                0x0000000000001b78        0x4 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001b78                _I_Pin_cell_13x13
+ .rodata._I_Pin_cell_13x13_0
+                0x0000000000001b7c        0xe build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001b7c                _I_Pin_cell_13x13_0
+ *fill*         0x0000000000001b8a        0x2 
+ .rodata._I_Pin_star_7x7
+                0x0000000000001b8c        0x4 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001b8c                _I_Pin_star_7x7
+ .rodata._I_Pin_star_7x7_0
+                0x0000000000001b90        0x8 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001b90                _I_Pin_star_7x7_0
+ .rodata._I_back_10px
+                0x0000000000001b98        0x4 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001b98                _I_back_10px
+ .rodata._I_back_10px_0
+                0x0000000000001b9c       0x15 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001b9c                _I_back_10px_0
+ *fill*         0x0000000000001bb1        0x3 
+ .rodata._I_sub1_10px
+                0x0000000000001bb4        0x4 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001bb4                _I_sub1_10px
+ .rodata._I_sub1_10px_0
+                0x0000000000001bb8       0x16 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+                0x0000000000001bb8                _I_sub1_10px_0
+
+.data
+ *(.data)
+ *(.data1)
+ *(.data.*)
+
+.bss
+ *(.bss)
+ *(.bss*)
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.ARM.attributes
+                0x0000000000001bce       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000001bce       0x34 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .ARM.attributes
+                0x0000000000001c02       0x34 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+ *(.ARM.attributes.*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/SubGHz_Remote_d.elf elf32-littlearm)
+LOAD linker stubs
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+
+.debug_info     0x0000000000000000     0x4312
+ .debug_info    0x0000000000000000     0x3e39 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .debug_info    0x0000000000003e39      0x4d9 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+
+.debug_abbrev   0x0000000000000000      0x660
+ .debug_abbrev  0x0000000000000000      0x5af build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .debug_abbrev  0x00000000000005af       0xb1 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+
+.debug_loc      0x0000000000000000     0x1103
+ .debug_loc     0x0000000000000000     0x1103 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_aranges  0x0000000000000000       0xb8
+ .debug_aranges
+                0x0000000000000000       0xa0 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .debug_aranges
+                0x00000000000000a0       0x18 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+
+.debug_ranges   0x0000000000000000      0x228
+ .debug_ranges  0x0000000000000000      0x228 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0xa84
+ .debug_macro   0x0000000000000000      0xa15 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .debug_macro   0x0000000000000a15       0x6f build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+
+.debug_macro    0x0000000000000000      0xaba
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x1e
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x5e
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0xe6
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x35
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x10e
+ .debug_macro   0x0000000000000000      0x10e build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x8d
+ .debug_macro   0x0000000000000000       0x8d build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x43
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x57
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x58
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x182
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x341
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x29
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x70
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x103
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x6a
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x1df
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x189
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x15a
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0xdd
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x1f
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x12
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x409
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0xc3
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x120
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0xfb
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x35
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x52
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x52
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0xd5
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x3d
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x176
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x4c
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x70
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x19
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x7c
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x17
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x118
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x11f
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000     0x2bf8
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0xb2
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x2e
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000     0x1011
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x11f
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000    0x12ae9
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x6c
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x147
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x557
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x175
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x91
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x24c
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x17
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x2e
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x89a
+ .debug_macro   0x0000000000000000      0x89a build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x1d2
+ .debug_macro   0x0000000000000000      0x1d2 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x259
+ .debug_macro   0x0000000000000000      0x259 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x24d
+ .debug_macro   0x0000000000000000      0x24d build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x904
+ .debug_macro   0x0000000000000000      0x904 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0xaa
+ .debug_macro   0x0000000000000000       0xaa build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x19b
+ .debug_macro   0x0000000000000000      0x19b build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x16f
+ .debug_macro   0x0000000000000000      0x16f build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0xd6
+ .debug_macro   0x0000000000000000       0xd6 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x255
+ .debug_macro   0x0000000000000000      0x255 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x6d
+ .debug_macro   0x0000000000000000       0x6d build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0xc0
+ .debug_macro   0x0000000000000000       0xc0 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0xd1
+ .debug_macro   0x0000000000000000       0xd1 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x3a
+ .debug_macro   0x0000000000000000       0x3a build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x1c2
+ .debug_macro   0x0000000000000000      0x1c2 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x1ce
+ .debug_macro   0x0000000000000000      0x1ce build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x5e
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0xff
+ .debug_macro   0x0000000000000000       0xff build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0xe2
+ .debug_macro   0x0000000000000000       0xe2 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x5f6
+ .debug_macro   0x0000000000000000      0x5f6 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x12
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x1ba
+ .debug_macro   0x0000000000000000      0x1ba build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x586
+ .debug_macro   0x0000000000000000      0x586 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x9b0
+ .debug_macro   0x0000000000000000      0x9b0 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000      0x1de
+ .debug_macro   0x0000000000000000      0x1de build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x11
+ .debug_macro   0x0000000000000000       0x11 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x57
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x2e
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_line     0x0000000000000000     0x278e
+ .debug_line    0x0000000000000000     0x2518 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .debug_line    0x0000000000002518      0x276 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+
+.debug_str      0x0000000000000000    0xf9399
+ .debug_str     0x0000000000000000    0xf52ce build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+ .debug_str     0x00000000000f52ce     0x40cb build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+
+.debug_frame    0x0000000000000000      0x290
+ .debug_frame   0x0000000000000000      0x290 build/f7-firmware-C/.extapps/SubGHz_Remote/unirfremix_app.o
+
+.debug_macro    0x0000000000000000       0xe0
+ .debug_macro   0x0000000000000000       0xe0 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o
+
+.debug_macro    0x0000000000000000       0x51
+ .debug_macro   0x0000000000000000       0x51 build/f7-firmware-C/.extapps/SubGHz_Remote/SubGHz_Remote_icons.o

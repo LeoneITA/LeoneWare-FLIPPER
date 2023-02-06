@@ -1,0 +1,719 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_round.o)
+                              build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o (round)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_sqrt.o)
+                              build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o (sqrt)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_sqrt.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_sqrt.o) (__ieee754_sqrt)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+                              build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o (__aeabi_dmul)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                              build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o (__aeabi_dsub)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+                              build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o (__aeabi_ddiv)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_sqrt.o) (__aeabi_dcmplt)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_sqrt.o) (__aeabi_dcmpun)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixdfsi.o)
+                              build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o (__aeabi_d2iz)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+                              build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o (__aeabi_d2uiz)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+ .text.scorched_tanks_random
+                0x0000000000000000       0x20 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+ .data.scorched_tanks_tan
+                0x0000000000000000      0x2d8 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+ .text          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_round.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_round.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_round.o)
+ .text          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_sqrt.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_sqrt.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_sqrt.o)
+ .text          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_sqrt.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_sqrt.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_sqrt.o)
+ .text          0x0000000000000000      0x254 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .debug_frame   0x0000000000000000       0x30 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixdfsi.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+
+.text           0x0000000000000000     0x176c
+ *(.text)
+ .text          0x0000000000000000      0x378 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                0x0000000000000000                __aeabi_drsub
+                0x0000000000000008                __aeabi_dsub
+                0x0000000000000008                __subdf3
+                0x000000000000000c                __aeabi_dadd
+                0x000000000000000c                __adddf3
+                0x0000000000000284                __floatunsidf
+                0x0000000000000284                __aeabi_ui2d
+                0x00000000000002a4                __floatsidf
+                0x00000000000002a4                __aeabi_i2d
+                0x00000000000002c8                __aeabi_f2d
+                0x00000000000002c8                __extendsfdf2
+                0x000000000000030c                __floatundidf
+                0x000000000000030c                __aeabi_ul2d
+                0x000000000000031c                __floatdidf
+                0x000000000000031c                __aeabi_l2d
+ .text          0x0000000000000378      0x424 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+                0x0000000000000378                __aeabi_dmul
+                0x0000000000000378                __muldf3
+                0x00000000000005cc                __divdf3
+                0x00000000000005cc                __aeabi_ddiv
+ .text          0x000000000000079c      0x110 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+                0x000000000000079c                __gtdf2
+                0x000000000000079c                __gedf2
+                0x00000000000007a4                __ltdf2
+                0x00000000000007a4                __ledf2
+                0x00000000000007ac                __nedf2
+                0x00000000000007ac                __eqdf2
+                0x00000000000007ac                __cmpdf2
+                0x0000000000000828                __aeabi_cdrcmple
+                0x0000000000000838                __aeabi_cdcmpeq
+                0x0000000000000838                __aeabi_cdcmple
+                0x0000000000000848                __aeabi_dcmpeq
+                0x000000000000085c                __aeabi_dcmplt
+                0x0000000000000870                __aeabi_dcmple
+                0x0000000000000884                __aeabi_dcmpge
+                0x0000000000000898                __aeabi_dcmpgt
+ .text          0x00000000000008ac       0x2c d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+                0x00000000000008ac                __unorddf2
+                0x00000000000008ac                __aeabi_dcmpun
+ .text          0x00000000000008d8       0x50 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixdfsi.o)
+                0x00000000000008d8                __aeabi_d2iz
+                0x00000000000008d8                __fixdfsi
+ .text          0x0000000000000928       0x40 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+                0x0000000000000928                __aeabi_d2uiz
+                0x0000000000000928                __fixunsdfsi
+ *(.stub)
+ *(.text*)
+ .text.scorched_tanks_update_timer_callback
+                0x0000000000000968       0x1c build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+ .text.scorched_tanks_input_callback
+                0x0000000000000984       0x28 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+ .text.scorched_tanks_render_callback
+                0x00000000000009ac      0x3b4 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+ .text.scorched_tanks_generate_ground
+                0x0000000000000d60       0x88 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+                0x0000000000000d60                scorched_tanks_generate_ground
+ .text.scorched_tanks_init_game
+                0x0000000000000de8       0x7c build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+                0x0000000000000de8                scorched_tanks_init_game
+ .text.scorched_tanks_calculate_trajectory
+                0x0000000000000e64      0x1e8 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+                0x0000000000000e64                scorched_tanks_calculate_trajectory
+ .text.scorched_tanks_game_app
+                0x000000000000104c      0x480 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+                0x000000000000104c                scorched_tanks_game_app
+ .text.round    0x00000000000014cc       0xa0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_round.o)
+                0x00000000000014cc                round
+ .text.sqrt     0x000000000000156c       0x68 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_sqrt.o)
+                0x000000000000156c                sqrt
+ .text.__ieee754_sqrt
+                0x00000000000015d4      0x198 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_sqrt.o)
+                0x00000000000015d4                __ieee754_sqrt
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x000000000000176c       0x6c
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.scorched_tanks_render_callback.str1.1
+                0x000000000000176c       0x25 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+ .rodata.scorched_tanks_game_app.str1.1
+                0x0000000000001791       0x35 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+ *fill*         0x00000000000017c6        0x2 
+ .rodata.sequence_long_vibro
+                0x00000000000017c8       0x10 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+                0x00000000000017c8                sequence_long_vibro
+
+.data           0x00000000000017d8      0x630
+ *(.data)
+ *(.data1)
+ *(.data.*)
+ .data.scorched_tanks_cos
+                0x00000000000017d8      0x2d8 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+                0x00000000000017d8                scorched_tanks_cos
+ .data.scorched_tanks_ground_modifiers
+                0x0000000000001ab0       0x80 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+                0x0000000000001ab0                scorched_tanks_ground_modifiers
+ .data.scorched_tanks_sin
+                0x0000000000001b30      0x2d8 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+                0x0000000000001b30                scorched_tanks_sin
+
+.bss
+ *(.bss)
+ *(.bss*)
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.ARM.attributes
+                0x0000000000001e08       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000001e08       0x34 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+ .ARM.attributes
+                0x0000000000001e3c       0x34 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_round.o)
+ .ARM.attributes
+                0x0000000000001e70       0x34 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_sqrt.o)
+ .ARM.attributes
+                0x0000000000001ea4       0x34 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_sqrt.o)
+ .ARM.attributes
+                0x0000000000001ed8       0x1e d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000000000001ef6       0x1e d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x0000000000001f14       0x1e d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x0000000000001f32       0x1e d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+ .ARM.attributes
+                0x0000000000001f50       0x1e d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x0000000000001f6e       0x1e d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ *(.ARM.attributes.*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/Scorched_Tanks_d.elf elf32-littlearm)
+LOAD linker stubs
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_info     0x0000000000000000     0x2041
+ .debug_info    0x0000000000000000     0x2041 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_abbrev   0x0000000000000000      0x50d
+ .debug_abbrev  0x0000000000000000      0x50d build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_loc      0x0000000000000000      0xdb6
+ .debug_loc     0x0000000000000000      0xdb6 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_aranges  0x0000000000000000       0x58
+ .debug_aranges
+                0x0000000000000000       0x58 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_ranges   0x0000000000000000      0x248
+ .debug_ranges  0x0000000000000000      0x248 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000      0x4de
+ .debug_macro   0x0000000000000000      0x4de build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000      0xaba
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x1e
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x5e
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0xe6
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x35
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000      0x10e
+ .debug_macro   0x0000000000000000      0x10e build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x8d
+ .debug_macro   0x0000000000000000       0x8d build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x43
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x57
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x58
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000      0x182
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000      0x341
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x29
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x70
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000      0x103
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x6a
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000      0x1df
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000      0x189
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000      0x15a
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0xdd
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x1f
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x12
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000      0x409
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0xc3
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000      0x120
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0xfb
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x35
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x52
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x52
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0xd5
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x3d
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000      0x176
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x4c
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x70
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x19
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x7c
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x17
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000      0x118
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000      0x11f
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000     0x2bf8
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0xb2
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x2e
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000     0x1011
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000      0x11f
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000    0x12ae9
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x6c
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000      0x147
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000      0x557
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000      0x175
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000       0x91
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000      0x24c
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_macro    0x0000000000000000      0x19b
+ .debug_macro   0x0000000000000000      0x19b build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_line     0x0000000000000000     0x1371
+ .debug_line    0x0000000000000000     0x1371 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_str      0x0000000000000000    0xd5756
+ .debug_str     0x0000000000000000    0xd5756 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+
+.debug_frame    0x0000000000000000      0x45c
+ .debug_frame   0x0000000000000000      0x194 build/f7-firmware-C/.extapps/Scorched_Tanks/scorched_tanks_game_app.o
+ .debug_frame   0x0000000000000194       0x28 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_round.o)
+ .debug_frame   0x00000000000001bc       0x48 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_sqrt.o)
+ .debug_frame   0x0000000000000204       0x30 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_sqrt.o)
+ .debug_frame   0x0000000000000234       0xac d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x00000000000002e0       0x50 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x0000000000000330       0xc4 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x00000000000003f4       0x20 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+ .debug_frame   0x0000000000000414       0x24 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixdfsi.o)
+ .debug_frame   0x0000000000000438       0x24 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)

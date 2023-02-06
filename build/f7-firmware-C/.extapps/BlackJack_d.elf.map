@@ -1,0 +1,2441 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_sqrt.o)
+                              build/f7-firmware-C/.extapps/BlackJack/common/dml.o (sqrt)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_sqrt.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_sqrt.o) (__ieee754_sqrt)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_sqrt.o) (__aeabi_dmul)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_sqrt.o) (__aeabi_dsub)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_sqrt.o) (__aeabi_ddiv)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_sqrt.o) (__aeabi_dcmplt)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_sqrt.o) (__aeabi_dcmpun)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+                              build/f7-firmware-C/.extapps/BlackJack/common/dml.o (__aeabi_d2f)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .text.init_hand
+                0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .rodata.free_hand.str1.1
+                0x0000000000000000       0x12 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .text.free_hand
+                0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .rodata.add_to_hand.str1.1
+                0x0000000000000000        0xf build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .text.add_to_hand
+                0x0000000000000000       0x34 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .text.draw_card_space
+                0x0000000000000000       0x58 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .text.first_non_flipped_card
+                0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .text.draw_hand_column
+                0x0000000000000000      0x1bc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .rodata.remove_from_deck.str1.1
+                0x0000000000000000       0x13 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .text.remove_from_deck
+                0x0000000000000000       0x94 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .rodata.extract_hand_region.str1.1
+                0x0000000000000000       0x17 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .text.extract_hand_region
+                0x0000000000000000       0x4c build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .rodata.add_hand_region.str1.1
+                0x0000000000000000       0x13 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .text.add_hand_region
+                0x0000000000000000       0x48 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .text.vector_add
+                0x0000000000000000        0xe build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .text.vector_sub
+                0x0000000000000000        0xe build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .text.vector_mul_components
+                0x0000000000000000        0xe build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .text.vector_div_components
+                0x0000000000000000        0xe build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .text.vector_magnitude
+                0x0000000000000000       0x38 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .text.vector_normalized
+                0x0000000000000000       0x30 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .text.vector_distance
+                0x0000000000000000       0x14 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .text.vector_dot
+                0x0000000000000000       0x40 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_macro   0x0000000000000000      0x19b build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000      0x10e build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x8d build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000      0x10e build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x8d build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .text.ui_cleanup
+                0x0000000000000000       0x40 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .text.pixel_index
+                0x0000000000000000        0x6 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .text.flipBit  0x0000000000000000        0xa build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .text.setBit   0x0000000000000000        0xa build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .text.unsetBit
+                0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .text.get_buffer
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .text.make_buffer
+                0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .text.clone_buffer
+                0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .text.read_pixel
+                0x0000000000000000       0x2c build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .text.draw_pixels
+                0x0000000000000000       0x7c build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .text.invert_shape
+                0x0000000000000000       0x20 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .text.draw_rectangle
+                0x0000000000000000       0x5c build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .text.invert_rectangle
+                0x0000000000000000       0x18 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000      0x10e build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x8d build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000000000      0x19b build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000      0x10e build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x8d build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000      0x330 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000      0x67b build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000      0x19b build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .rodata.str1.1
+                0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .text.draw_play_menu
+                0x0000000000000000       0xe8 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .text.draw_screen
+                0x0000000000000000       0x40 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .rodata        0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000      0x174 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000      0x19b build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000      0x10e build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x8d build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000      0x19b build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/BlackJack/util.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+ .debug_macro   0x0000000000000000       0xe0 build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+ .debug_macro   0x0000000000000000       0x51 build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+ .text          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_sqrt.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_sqrt.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_sqrt.o)
+ .text.sqrt     0x0000000000000000       0x68 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_sqrt.o)
+ .debug_frame   0x0000000000000000       0x48 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_sqrt.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_sqrt.o)
+ .text          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_sqrt.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_sqrt.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_sqrt.o)
+ .text.__ieee754_sqrt
+                0x0000000000000000      0x198 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_sqrt.o)
+ .debug_frame   0x0000000000000000       0x30 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_sqrt.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_sqrt.o)
+ .text          0x0000000000000000      0x254 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .debug_frame   0x0000000000000000       0x30 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .text          0x0000000000000000      0x378 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x0000000000000000       0xac d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .text          0x0000000000000000      0x424 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x0000000000000000       0x50 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .text          0x0000000000000000      0x110 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x0000000000000000       0xc4 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .text          0x0000000000000000       0x2c d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+ .debug_frame   0x0000000000000000       0x20 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+ .text          0x0000000000000000       0xa0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .debug_frame   0x0000000000000000       0x24 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_truncdfsf2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/BlackJack/common/card.o
+LOAD build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+LOAD build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+LOAD build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+LOAD build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+LOAD build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+LOAD build/f7-firmware-C/.extapps/BlackJack/ui.o
+LOAD build/f7-firmware-C/.extapps/BlackJack/util.o
+LOAD build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+
+.text           0x0000000000000000     0x2264
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text.set_card_graphics
+                0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+                0x0000000000000000                set_card_graphics
+ .text.draw_card_at_colored
+                0x000000000000000c      0x120 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+                0x000000000000000c                draw_card_at_colored
+ .text.draw_card_at
+                0x000000000000012c       0x18 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+                0x000000000000012c                draw_card_at
+ .text.draw_deck
+                0x0000000000000144       0x40 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+                0x0000000000000144                draw_deck
+ .text.card_pos_at_index
+                0x0000000000000184       0x28 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+                0x0000000000000184                card_pos_at_index
+ .text.draw_card_back_at
+                0x00000000000001ac       0x68 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+                0x00000000000001ac                draw_card_back_at
+ .text.generate_deck
+                0x0000000000000214       0x6c build/f7-firmware-C/.extapps/BlackJack/common/card.o
+                0x0000000000000214                generate_deck
+ .text.shuffle_deck
+                0x0000000000000280       0x74 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+                0x0000000000000280                shuffle_deck
+ .text.hand_count
+                0x00000000000002f4       0x4a build/f7-firmware-C/.extapps/BlackJack/common/card.o
+                0x00000000000002f4                hand_count
+ *fill*         0x000000000000033e        0x2 
+ .text.draw_card_animation
+                0x0000000000000340       0xcc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+                0x0000000000000340                draw_card_animation
+ .text.lerp     0x000000000000040c       0x20 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+                0x000000000000040c                lerp
+ .text.lerp_2d  0x000000000000042c       0x34 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+                0x000000000000042c                lerp_2d
+ .text.quadratic_2d
+                0x0000000000000460       0x50 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+                0x0000000000000460                quadratic_2d
+ .text.add_menu
+                0x00000000000004b0       0x6c build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+                0x00000000000004b0                add_menu
+ .text.free_menu
+                0x000000000000051c       0x18 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+                0x000000000000051c                free_menu
+ .text.move_menu
+                0x0000000000000534       0xc0 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+                0x0000000000000534                move_menu
+ .text.set_menu_state
+                0x00000000000005f4       0x34 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+                0x00000000000005f4                set_menu_state
+ .text.activate_menu
+                0x0000000000000628       0x1a build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+                0x0000000000000628                activate_menu
+ *fill*         0x0000000000000642        0x2 
+ .text.render_menu
+                0x0000000000000644      0x180 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+                0x0000000000000644                render_menu
+ .text.render_queue
+                0x00000000000007c4       0x12 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+                0x00000000000007c4                render_queue
+ *fill*         0x00000000000007d6        0x2 
+ .text.dequeue  0x00000000000007d8       0x38 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+                0x00000000000007d8                dequeue
+ .text.run_queue
+                0x0000000000000810       0x34 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+                0x0000000000000810                run_queue
+ .text.queue_clear
+                0x0000000000000844       0x1c build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+                0x0000000000000844                queue_clear
+ .text.enqueue  0x0000000000000860       0x58 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+                0x0000000000000860                enqueue
+ .text.add_new_tilemap
+                0x00000000000008b8       0x5c build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+                0x00000000000008b8                add_new_tilemap
+ .text.get_tilemap
+                0x0000000000000914       0x30 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+                0x0000000000000914                get_tilemap
+ .text.in_screen
+                0x0000000000000944       0x16 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+                0x0000000000000944                in_screen
+ .text.test_pixel
+                0x000000000000095a       0x20 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+                0x000000000000095a                test_pixel
+ *fill*         0x000000000000097a        0x2 
+ .text.set_pixel
+                0x000000000000097c       0x54 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+                0x000000000000097c                set_pixel
+ .text.draw_line
+                0x00000000000009d0       0x40 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+                0x00000000000009d0                draw_line
+ .text.draw_rounded_box_frame
+                0x0000000000000a10       0x80 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+                0x0000000000000a10                draw_rounded_box_frame
+ .text.draw_rounded_box
+                0x0000000000000a90       0x70 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+                0x0000000000000a90                draw_rounded_box
+ .text.image_data
+                0x0000000000000b00       0x30 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+                0x0000000000000b00                image_data
+ .text.getOrAddIconData
+                0x0000000000000b30       0x34 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+                0x0000000000000b30                getOrAddIconData
+ .text.draw_icon_clip
+                0x0000000000000b64       0xb0 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+                0x0000000000000b64                draw_icon_clip
+ .text.draw_icon_clip_flipped
+                0x0000000000000c14       0xb8 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+                0x0000000000000c14                draw_icon_clip_flipped
+ .text.before_start
+                0x0000000000000ccc        0x8 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x0000000000000ccc                before_start
+ .text.game_over
+                0x0000000000000cd4        0x8 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x0000000000000cd4                game_over
+ .text.dealerTurn
+                0x0000000000000cdc        0x8 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x0000000000000cdc                dealerTurn
+ .text.draw     0x0000000000000ce4       0x3c build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x0000000000000ce4                draw
+ .text.win      0x0000000000000d20       0x44 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x0000000000000d20                win
+ .text.hitAction
+                0x0000000000000d64       0x28 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x0000000000000d64                hitAction
+ .text.stayAction
+                0x0000000000000d8c       0x28 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x0000000000000d8c                stayAction
+ .text.update_timer_callback
+                0x0000000000000db4       0x1c build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .text.input_callback
+                0x0000000000000dd0       0x28 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .text.render_callback
+                0x0000000000000df8      0x10c build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .text.to_lose_state
+                0x0000000000000f04       0x34 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x0000000000000f04                to_lose_state
+ .text.to_bust_state
+                0x0000000000000f38       0x34 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x0000000000000f38                to_bust_state
+ .text.to_draw_state
+                0x0000000000000f6c       0x34 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x0000000000000f6c                to_draw_state
+ .text.to_dealer_turn
+                0x0000000000000fa0       0x34 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x0000000000000fa0                to_dealer_turn
+ .text.to_win_state
+                0x0000000000000fd4       0x34 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x0000000000000fd4                to_win_state
+ .text.to_start
+                0x0000000000001008       0x34 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x0000000000001008                to_start
+ .text.lose     0x000000000000103c       0x54 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x000000000000103c                lose
+ .text.doubleAction
+                0x0000000000001090       0xc0 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x0000000000001090                doubleAction
+ .text.draw_card
+                0x0000000000001150       0x34 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x0000000000001150                draw_card
+ .text.drawPlayerCard
+                0x0000000000001184       0x48 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x0000000000001184                drawPlayerCard
+ .text.drawDealerCard
+                0x00000000000011cc       0x20 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x00000000000011cc                drawDealerCard
+ .text.animationTime
+                0x00000000000011ec       0x28 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x00000000000011ec                animationTime
+ .text.dealer_card_animation
+                0x0000000000001214       0xd8 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x0000000000001214                dealer_card_animation
+ .text.dealer_back_card_animation
+                0x00000000000012ec       0x64 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x00000000000012ec                dealer_back_card_animation
+ .text.player_card_animation
+                0x0000000000001350       0x68 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x0000000000001350                player_card_animation
+ .text.player_tick
+                0x00000000000013b8       0x9c build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x00000000000013b8                player_tick
+ .text.dealer_tick
+                0x0000000000001454       0xcc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x0000000000001454                dealer_tick
+ .text.settings_tick
+                0x0000000000001520       0xba build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x0000000000001520                settings_tick
+ *fill*         0x00000000000015da        0x2 
+ .text.start_round
+                0x00000000000015dc       0x60 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x00000000000015dc                start_round
+ .text.start    0x000000000000163c        0x8 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x000000000000163c                start
+ .text.init     0x0000000000001644       0x6c build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x0000000000001644                init
+ .text.tick     0x00000000000016b0      0x10c build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x00000000000016b0                tick
+ .text.blackjack_app
+                0x00000000000017bc      0x274 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+                0x00000000000017bc                blackjack_app
+ .text.draw_player_scene
+                0x0000000000001a30       0x50 build/f7-firmware-C/.extapps/BlackJack/ui.o
+                0x0000000000001a30                draw_player_scene
+ .text.draw_dealer_scene
+                0x0000000000001a80       0x14 build/f7-firmware-C/.extapps/BlackJack/ui.o
+                0x0000000000001a80                draw_dealer_scene
+ .text.popup_frame
+                0x0000000000001a94       0x4c build/f7-firmware-C/.extapps/BlackJack/ui.o
+                0x0000000000001a94                popup_frame
+ .text.draw_score
+                0x0000000000001ae0       0x44 build/f7-firmware-C/.extapps/BlackJack/ui.o
+                0x0000000000001ae0                draw_score
+ .text.draw_money
+                0x0000000000001b24       0x84 build/f7-firmware-C/.extapps/BlackJack/ui.o
+                0x0000000000001b24                draw_money
+ .text.draw_menu
+                0x0000000000001ba8       0xc0 build/f7-firmware-C/.extapps/BlackJack/ui.o
+                0x0000000000001ba8                draw_menu
+ .text.settings_page
+                0x0000000000001c68      0x1b0 build/f7-firmware-C/.extapps/BlackJack/ui.o
+                0x0000000000001c68                settings_page
+ .text.save_settings
+                0x0000000000001e18      0x140 build/f7-firmware-C/.extapps/BlackJack/util.o
+                0x0000000000001e18                save_settings
+ .text.save_settings_file
+                0x0000000000001f58       0xb0 build/f7-firmware-C/.extapps/BlackJack/util.o
+                0x0000000000001f58                save_settings_file
+ .text.load_settings
+                0x0000000000002008      0x25c build/f7-firmware-C/.extapps/BlackJack/util.o
+                0x0000000000002008                load_settings
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x0000000000002264      0x781
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.move_menu.str1.1
+                0x0000000000002264       0x8d build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .rodata.to_lose_state.str1.1
+                0x00000000000022f1        0x9 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .rodata.to_bust_state.str1.1
+                0x00000000000022fa        0x8 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .rodata.to_draw_state.str1.1
+                0x0000000000002302        0x5 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .rodata.to_dealer_turn.str1.1
+                0x0000000000002307        0xd build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .rodata.to_win_state.str1.1
+                0x0000000000002314        0x8 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .rodata.to_start.str1.1
+                0x000000000000231c        0xe build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .rodata.dealer_tick.str1.1
+                0x000000000000232a        0x8 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .rodata.blackjack_app.str1.1
+                0x0000000000002332       0x34 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .rodata.draw_score.str1.1
+                0x0000000000002366       0x11 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .rodata.draw_money.str1.1
+                0x0000000000002377        0xd build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .rodata.draw_menu.str1.1
+                0x0000000000002384        0x4 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .rodata.settings_page.str1.1
+                0x0000000000002388       0x34 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .rodata.MoneyMul
+                0x00000000000023bc        0x4 build/f7-firmware-C/.extapps/BlackJack/ui.o
+                0x00000000000023bc                MoneyMul
+ .rodata.save_settings.str1.1
+                0x00000000000023c0       0x9d build/f7-firmware-C/.extapps/BlackJack/util.o
+ .rodata.save_settings_file.str1.1
+                0x000000000000245d       0x8a build/f7-firmware-C/.extapps/BlackJack/util.o
+ .rodata.load_settings.str1.1
+                0x00000000000024e7      0x101 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .rodata.str1.1
+                0x00000000000025e8       0x19 build/f7-firmware-C/.extapps/BlackJack/util.o
+ *fill*         0x0000000000002601        0x3 
+ .rodata.I_blackjack
+                0x0000000000002604        0x8 build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+                0x0000000000002604                I_blackjack
+ .rodata.I_card_graphics
+                0x000000000000260c        0x8 build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+                0x000000000000260c                I_card_graphics
+ .rodata.I_endscreen
+                0x0000000000002614        0x8 build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+                0x0000000000002614                I_endscreen
+ .rodata._I_blackjack
+                0x000000000000261c        0x4 build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+                0x000000000000261c                _I_blackjack
+ .rodata._I_blackjack_0
+                0x0000000000002620      0x19b build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+                0x0000000000002620                _I_blackjack_0
+ *fill*         0x00000000000027bb        0x1 
+ .rodata._I_card_graphics
+                0x00000000000027bc        0x4 build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+                0x00000000000027bc                _I_card_graphics
+ .rodata._I_card_graphics_0
+                0x00000000000027c0       0x93 build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+                0x00000000000027c0                _I_card_graphics_0
+ *fill*         0x0000000000002853        0x1 
+ .rodata._I_endscreen
+                0x0000000000002854        0x4 build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+                0x0000000000002854                _I_endscreen
+ .rodata._I_endscreen_0
+                0x0000000000002858      0x18d build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+                0x0000000000002858                _I_endscreen_0
+
+.data           0x00000000000029e8       0x90
+ *(.data)
+ *(.data1)
+ *(.data.*)
+ .data.letters  0x00000000000029e8       0x27 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+                0x00000000000029e8                letters
+ .data.pips     0x0000000000002a0f        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+                0x0000000000002a0f                pips
+ .data.playerCardPositions
+                0x0000000000002a1b       0x58 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+                0x0000000000002a1b                playerCardPositions
+ *fill*         0x0000000000002a73        0x1 
+ .data.CONFIG_FILE_PATH
+                0x0000000000002a74        0x4 build/f7-firmware-C/.extapps/BlackJack/util.o
+                0x0000000000002a74                CONFIG_FILE_PATH
+
+.bss            0x0000000000002a78        0x9
+ *(.bss)
+ *(.bss*)
+ .bss.card_graphics
+                0x0000000000002a78        0x4 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+                0x0000000000002a78                card_graphics
+ .bss.tileMap   0x0000000000002a7c        0x4 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+                0x0000000000002a7c                tileMap
+ .bss.tileMapCount
+                0x0000000000002a80        0x1 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+                0x0000000000002a80                tileMapCount
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.ARM.attributes
+                0x0000000000002a81       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000002a81       0x34 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .ARM.attributes
+                0x0000000000002ab5       0x34 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .ARM.attributes
+                0x0000000000002ae9       0x34 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .ARM.attributes
+                0x0000000000002b1d       0x34 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .ARM.attributes
+                0x0000000000002b51       0x34 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .ARM.attributes
+                0x0000000000002b85       0x34 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .ARM.attributes
+                0x0000000000002bb9       0x34 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .ARM.attributes
+                0x0000000000002bed       0x34 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .ARM.attributes
+                0x0000000000002c21       0x34 build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+ *(.ARM.attributes.*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/BlackJack_d.elf elf32-littlearm)
+LOAD linker stubs
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/BlackJack/util.o
+
+.debug_info     0x0000000000000000     0x8fce
+ .debug_info    0x0000000000000000     0x145b build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .debug_info    0x000000000000145b      0x465 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_info    0x00000000000018c0      0x8fe build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_info    0x00000000000021be      0x44f build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_info    0x000000000000260d     0x1d96 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_info    0x00000000000043a3     0x2d37 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_info    0x00000000000070da     0x102e build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_info    0x0000000000008108      0xcc0 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_info    0x0000000000008dc8      0x206 build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+
+.debug_abbrev   0x0000000000000000     0x15be
+ .debug_abbrev  0x0000000000000000      0x325 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .debug_abbrev  0x0000000000000325      0x19f build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_abbrev  0x00000000000004c4      0x218 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_abbrev  0x00000000000006dc      0x178 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_abbrev  0x0000000000000854      0x3be build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_abbrev  0x0000000000000c12      0x574 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_abbrev  0x0000000000001186      0x1ea build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_abbrev  0x0000000000001370      0x194 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_abbrev  0x0000000000001504       0xba build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+
+.debug_loc      0x0000000000000000     0x4cce
+ .debug_loc     0x0000000000000000     0x10e5 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .debug_loc     0x00000000000010e5       0xda build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_loc     0x00000000000011bf      0x4e7 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_loc     0x00000000000016a6      0x344 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_loc     0x00000000000019ea     0x1626 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_loc     0x0000000000003010     0x143f build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_loc     0x000000000000444f      0x748 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_loc     0x0000000000004b97      0x137 build/f7-firmware-C/.extapps/BlackJack/util.o
+
+.debug_aranges  0x0000000000000000      0x450
+ .debug_aranges
+                0x0000000000000000       0xb0 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .debug_aranges
+                0x00000000000000b0       0x70 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_aranges
+                0x0000000000000120       0x48 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_aranges
+                0x0000000000000168       0x40 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_aranges
+                0x00000000000001a8       0xe0 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_aranges
+                0x0000000000000288      0x120 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_aranges
+                0x00000000000003a8       0x60 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_aranges
+                0x0000000000000408       0x30 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_aranges
+                0x0000000000000438       0x18 build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+
+.debug_ranges   0x0000000000000000      0xa08
+ .debug_ranges  0x0000000000000000      0x250 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .debug_ranges  0x0000000000000250       0x60 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_ranges  0x00000000000002b0       0xd0 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_ranges  0x0000000000000380       0x48 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_ranges  0x00000000000003c8      0x330 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_ranges  0x00000000000006f8      0x1d8 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_ranges  0x00000000000008d0      0x118 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_ranges  0x00000000000009e8       0x20 build/f7-firmware-C/.extapps/BlackJack/util.o
+
+.debug_macro    0x0000000000000000     0x2471
+ .debug_macro   0x0000000000000000      0x4ab build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .debug_macro   0x00000000000004ab       0xdc build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_macro   0x0000000000000587      0x45d build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_macro   0x00000000000009e4      0x45d build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_macro   0x0000000000000e41      0x6f6 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_macro   0x0000000000001537      0x524 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_macro   0x0000000000001a5b      0x4dd build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_macro   0x0000000000001f38      0x4ca build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_macro   0x0000000000002402       0x6f build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+
+.debug_macro    0x0000000000000000      0xaba
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x1e
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x5e
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0xe6
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x35
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000      0x10e
+ .debug_macro   0x0000000000000000      0x10e build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x8d
+ .debug_macro   0x0000000000000000       0x8d build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x43
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x57
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x58
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000      0x182
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000      0x341
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x29
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x70
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000      0x103
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x6a
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000      0x1df
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000      0x189
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000      0x15a
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0xdd
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x1f
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x12
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000      0x409
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0xc3
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000      0x120
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0xfb
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x35
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x52
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x52
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0xd5
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x3d
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000      0x176
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x4c
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x70
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x19
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x7c
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x17
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000      0x118
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000      0x11f
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000     0x2bf8
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0xb2
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x2e
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000     0x1011
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000      0x11f
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000    0x12ae9
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x6c
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000      0x147
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000      0x557
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000      0x175
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x91
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000      0x24c
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000      0x19b
+ .debug_macro   0x0000000000000000      0x19b build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+
+.debug_line     0x0000000000000000     0x78b2
+ .debug_line    0x0000000000000000     0x126b build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .debug_line    0x000000000000126b      0x426 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_line    0x0000000000001691      0xbd5 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_line    0x0000000000002266      0xaaf build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_line    0x0000000000002d15     0x17b2 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_line    0x00000000000044c7     0x175a build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_line    0x0000000000005c21      0xe32 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_line    0x0000000000006a53      0xbf5 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_line    0x0000000000007648      0x26a build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+
+.debug_str      0x0000000000000000   0x5fb9b5
+ .debug_str     0x0000000000000000    0xd4c6d build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .debug_str     0x00000000000d4c6d     0x66d9 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_str     0x00000000000db346    0xd40ad build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_str     0x00000000001af3f3    0xd3edd build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_str     0x00000000002832d0    0xf11b4 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_str     0x0000000000374484    0xd9b24 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_str     0x000000000044dfa8    0xd4e69 build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_str     0x0000000000522e11    0xd4d22 build/f7-firmware-C/.extapps/BlackJack/util.o
+ .debug_str     0x00000000005f7b33     0x3e82 build/f7-firmware-C/.extapps/BlackJack/BlackJack_icons.o
+
+.debug_frame    0x0000000000000000      0xebc
+ .debug_frame   0x0000000000000000      0x2b4 build/f7-firmware-C/.extapps/BlackJack/common/card.o
+ .debug_frame   0x00000000000002b4      0x150 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+ .debug_frame   0x0000000000000404       0xf0 build/f7-firmware-C/.extapps/BlackJack/common/menu.o
+ .debug_frame   0x00000000000004f4       0x94 build/f7-firmware-C/.extapps/BlackJack/common/queue.o
+ .debug_frame   0x0000000000000588      0x320 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+ .debug_frame   0x00000000000008a8      0x40c build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+ .debug_frame   0x0000000000000cb4      0x16c build/f7-firmware-C/.extapps/BlackJack/ui.o
+ .debug_frame   0x0000000000000e20       0x9c build/f7-firmware-C/.extapps/BlackJack/util.o
+
+.debug_macro    0x0000000000000000      0x174
+ .debug_macro   0x0000000000000000      0x174 build/f7-firmware-C/.extapps/BlackJack/common/dml.o
+
+.debug_macro    0x0000000000000000      0x330
+ .debug_macro   0x0000000000000000      0x330 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000      0x67b
+ .debug_macro   0x0000000000000000      0x67b build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000      0x89a
+ .debug_macro   0x0000000000000000      0x89a build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000      0x1d2
+ .debug_macro   0x0000000000000000      0x1d2 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000      0x259
+ .debug_macro   0x0000000000000000      0x259 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000      0x24d
+ .debug_macro   0x0000000000000000      0x24d build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000      0x904
+ .debug_macro   0x0000000000000000      0x904 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000       0xaa
+ .debug_macro   0x0000000000000000       0xaa build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000      0x16f
+ .debug_macro   0x0000000000000000      0x16f build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000       0xd6
+ .debug_macro   0x0000000000000000       0xd6 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000      0x255
+ .debug_macro   0x0000000000000000      0x255 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000       0x6d
+ .debug_macro   0x0000000000000000       0x6d build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000       0xc0
+ .debug_macro   0x0000000000000000       0xc0 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000       0xd1
+ .debug_macro   0x0000000000000000       0xd1 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000       0x3a
+ .debug_macro   0x0000000000000000       0x3a build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000      0x1c2
+ .debug_macro   0x0000000000000000      0x1c2 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000      0x1ce
+ .debug_macro   0x0000000000000000      0x1ce build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000       0x5e
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000       0xff
+ .debug_macro   0x0000000000000000       0xff build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000       0xe2
+ .debug_macro   0x0000000000000000       0xe2 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000      0x5f6
+ .debug_macro   0x0000000000000000      0x5f6 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000       0x12
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000      0x1ba
+ .debug_macro   0x0000000000000000      0x1ba build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000      0x586
+ .debug_macro   0x0000000000000000      0x586 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000      0x9b0
+ .debug_macro   0x0000000000000000      0x9b0 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000      0x1de
+ .debug_macro   0x0000000000000000      0x1de build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000       0x11
+ .debug_macro   0x0000000000000000       0x11 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/common/ui.o
+
+.debug_macro    0x0000000000000000       0x17
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+
+.debug_macro    0x0000000000000000       0x2e
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/BlackJack/blackjack.o
+
+.debug_macro    0x0000000000000000       0xe0
+ .debug_macro   0x0000000000000000       0xe0 build/f7-firmware-C/.extapps/BlackJack/util.o
+
+.debug_macro    0x0000000000000000       0x51
+ .debug_macro   0x0000000000000000       0x51 build/f7-firmware-C/.extapps/BlackJack/util.o
+
+.debug_macro    0x0000000000000000       0x64
+ .debug_macro   0x0000000000000000       0x64 build/f7-firmware-C/.extapps/BlackJack/util.o

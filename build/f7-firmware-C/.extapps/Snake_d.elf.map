@@ -1,0 +1,785 @@
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000      0x10e build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x8d build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .debug_macro   0x0000000000000000       0x46 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/Snake/snake_game.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+LOAD build/f7-firmware-C/.extapps/Snake/snake_game.o
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+
+.text           0x0000000000000000      0xa9c
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text.snake_game_close_file
+                0x0000000000000000       0x30 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+ .text.snake_game_open_file
+                0x0000000000000030       0xbc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+ .text.snake_game_save_score_to_file
+                0x00000000000000ec       0x34 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+                0x00000000000000ec                snake_game_save_score_to_file
+ .text.snake_game_save_game_to_file
+                0x0000000000000120      0x104 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+                0x0000000000000120                snake_game_save_game_to_file
+ .text.snake_game_init_game_from_file
+                0x0000000000000224      0x1ac build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+                0x0000000000000224                snake_game_init_game_from_file
+ .text.snake_game_init_game
+                0x00000000000003d0       0x6c build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .text.snake_game_game_over
+                0x000000000000043c       0x38 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .text.snake_game_update_timer_callback
+                0x0000000000000474       0x1c build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .text.snake_game_input_callback
+                0x0000000000000490       0x28 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .text.snake_game_render_callback
+                0x00000000000004b8      0x200 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .text.snake_game_app
+                0x00000000000006b8      0x3e4 build/f7-firmware-C/.extapps/Snake/snake_game.o
+                0x00000000000006b8                snake_game_app
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x0000000000000a9c      0x170
+ *(.rodata)
+ .rodata        0x0000000000000a9c        0xe build/f7-firmware-C/.extapps/Snake/snake_game.o
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.snake_game_close_file.str1.1
+                0x0000000000000aaa        0x8 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+ .rodata.snake_game_open_file.str1.1
+                0x0000000000000ab2       0x68 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+ .rodata.snake_game_save_score_to_file.str1.1
+                0x0000000000000b1a        0xa build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+ .rodata.snake_game_save_game_to_file.str1.1
+                0x0000000000000b24       0x3e build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+ .rodata.snake_game_render_callback.str1.1
+                0x0000000000000b62       0x2d build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .rodata.snake_game_app.str1.1
+                0x0000000000000b8f       0x31 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ .rodata.sequence_eat
+                0x0000000000000bc0       0x10 build/f7-firmware-C/.extapps/Snake/snake_game.o
+                0x0000000000000bc0                sequence_eat
+ .rodata.sequence_fail
+                0x0000000000000bd0       0x3c build/f7-firmware-C/.extapps/Snake/snake_game.o
+                0x0000000000000bd0                sequence_fail
+
+.data
+ *(.data)
+ *(.data1)
+ *(.data.*)
+
+.bss
+ *(.bss)
+ *(.bss*)
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.ARM.attributes
+                0x0000000000000c0c       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000c0c       0x34 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+ .ARM.attributes
+                0x0000000000000c40       0x34 build/f7-firmware-C/.extapps/Snake/snake_game.o
+ *(.ARM.attributes.*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/Snake_d.elf elf32-littlearm)
+LOAD linker stubs
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Snake/snake_game.o
+
+.debug_info     0x0000000000000000     0x25d5
+ .debug_info    0x0000000000000000      0xb26 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+ .debug_info    0x0000000000000b26     0x1aaf build/f7-firmware-C/.extapps/Snake/snake_game.o
+
+.debug_abbrev   0x0000000000000000      0x654
+ .debug_abbrev  0x0000000000000000      0x239 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+ .debug_abbrev  0x0000000000000239      0x41b build/f7-firmware-C/.extapps/Snake/snake_game.o
+
+.debug_loc      0x0000000000000000      0xed8
+ .debug_loc     0x0000000000000000      0x400 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+ .debug_loc     0x0000000000000400      0xad8 build/f7-firmware-C/.extapps/Snake/snake_game.o
+
+.debug_aranges  0x0000000000000000       0x88
+ .debug_aranges
+                0x0000000000000000       0x40 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+ .debug_aranges
+                0x0000000000000040       0x48 build/f7-firmware-C/.extapps/Snake/snake_game.o
+
+.debug_ranges   0x0000000000000000      0x258
+ .debug_ranges  0x0000000000000000       0x80 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+ .debug_ranges  0x0000000000000080      0x1d8 build/f7-firmware-C/.extapps/Snake/snake_game.o
+
+.debug_macro    0x0000000000000000      0x90d
+ .debug_macro   0x0000000000000000      0x45a build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+ .debug_macro   0x000000000000045a      0x4b3 build/f7-firmware-C/.extapps/Snake/snake_game.o
+
+.debug_macro    0x0000000000000000      0xaba
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x1e
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x5e
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0xe6
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x35
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000      0x10e
+ .debug_macro   0x0000000000000000      0x10e build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x8d
+ .debug_macro   0x0000000000000000       0x8d build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x43
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x57
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x58
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000      0x182
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000      0x341
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x29
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x70
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000      0x103
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x6a
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000      0x1df
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000      0x189
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000      0x15a
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0xdd
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x1f
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x12
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000      0x409
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0xc3
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000      0x120
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0xfb
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x35
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x52
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x52
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0xd5
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x3d
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000      0x176
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x4c
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x70
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x19
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x7c
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x17
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000      0x118
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000      0x11f
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000     0x2bf8
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0xb2
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x2e
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000     0x1011
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000      0x11f
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000    0x12ae9
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x6c
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000      0x147
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000      0x557
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000      0x175
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x91
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x2e
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_macro    0x0000000000000000       0x46
+ .debug_macro   0x0000000000000000       0x46 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+
+.debug_line     0x0000000000000000     0x1e1d
+ .debug_line    0x0000000000000000      0xd39 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+ .debug_line    0x0000000000000d39     0x10e4 build/f7-firmware-C/.extapps/Snake/snake_game.o
+
+.debug_str      0x0000000000000000   0x1a923c
+ .debug_str     0x0000000000000000    0xd3c60 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+ .debug_str     0x00000000000d3c60    0xd55dc build/f7-firmware-C/.extapps/Snake/snake_game.o
+
+.debug_frame    0x0000000000000000      0x1f4
+ .debug_frame   0x0000000000000000       0xe8 build/f7-firmware-C/.extapps/Snake/helpers/snake_file_handler.o
+ .debug_frame   0x00000000000000e8      0x10c build/f7-firmware-C/.extapps/Snake/snake_game.o
+
+.debug_macro    0x0000000000000000      0x24c
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/Snake/snake_game.o
+
+.debug_macro    0x0000000000000000       0x17
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/Snake/snake_game.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Snake/snake_game.o

@@ -1,0 +1,874 @@
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ .text.hd_person_set_state
+                0x0000000000000000        0x8 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata.A_HD_person_block_left_10x20
+                0x0000000000000000        0x8 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata.A_HD_person_block_right_10x20
+                0x0000000000000000        0x8 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata.I_Box6p_10x10
+                0x0000000000000000        0x8 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata.I_Box7p_10x10
+                0x0000000000000000        0x8 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata.I_Box8p_10x10
+                0x0000000000000000        0x8 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata.I_Game_over_128x64
+                0x0000000000000000        0x8 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata.I_Person4_1_10x20
+                0x0000000000000000        0x8 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata.I_Person4_2_10x20
+                0x0000000000000000        0x8 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata.I_Person5_1_10x20
+                0x0000000000000000        0x8 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata.I_Person5_2_10x20
+                0x0000000000000000        0x8 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata.I_Start_128x64
+                0x0000000000000000        0x8 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata._A_HD_person_block_left_10x20
+                0x0000000000000000        0x8 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata._A_HD_person_block_left_10x20_0
+                0x0000000000000000       0x29 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata._A_HD_person_block_left_10x20_1
+                0x0000000000000000       0x29 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata._A_HD_person_block_right_10x20
+                0x0000000000000000        0x8 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata._A_HD_person_block_right_10x20_0
+                0x0000000000000000       0x29 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata._A_HD_person_block_right_10x20_1
+                0x0000000000000000       0x2a build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata._I_Box6p_10x10
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata._I_Box6p_10x10_0
+                0x0000000000000000       0x14 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata._I_Box7p_10x10
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata._I_Box7p_10x10_0
+                0x0000000000000000       0x13 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata._I_Box8p_10x10
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata._I_Box8p_10x10_0
+                0x0000000000000000       0x14 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata._I_Game_over_128x64
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata._I_Game_over_128x64_0
+                0x0000000000000000      0x271 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata._I_Person4_1_10x20
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata._I_Person4_1_10x20_0
+                0x0000000000000000       0x29 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata._I_Person4_2_10x20
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata._I_Person4_2_10x20_0
+                0x0000000000000000       0x29 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata._I_Person5_1_10x20
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata._I_Person5_1_10x20_0
+                0x0000000000000000       0x29 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata._I_Person5_2_10x20
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata._I_Person5_2_10x20_0
+                0x0000000000000000       0x2a build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata._I_Start_128x64
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .rodata._I_Start_128x64_0
+                0x0000000000000000      0x288 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .debug_macro   0x0000000000000000       0xe0 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .debug_macro   0x0000000000000000       0x51 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+LOAD build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+LOAD build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+
+.text           0x0000000000000000      0x88c
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text.heap_defense_timer_callback
+                0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ .text.heap_defense_render_callback
+                0x000000000000001c      0x1cc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ .text.game_reset_field_and_player
+                0x00000000000001e8       0x2c build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ .text.heap_defense_input_callback
+                0x0000000000000214       0x30 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ .text.on_ground.isra.0
+                0x0000000000000244       0x14 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ .text.heap_defence_app
+                0x0000000000000258      0x634 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+                0x0000000000000258                heap_defence_app
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x000000000000088c     0x1edd
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.heap_defense_render_callback.str1.1
+                0x000000000000088c       0x25 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ .rodata.heap_defence_app.str1.1
+                0x00000000000008b1       0x2a build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ .rodata.__FUNCTION__.0
+                0x00000000000008db        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ .rodata.__FUNCTION__.2
+                0x00000000000008e7       0x1d build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ .rodata.boxes  0x0000000000000904       0x18 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ .rodata.A_HD_BoxDestroyed_10x10
+                0x000000000000091c        0x8 build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+                0x000000000000091c                A_HD_BoxDestroyed_10x10
+ .rodata._A_HD_BoxDestroyed_10x10_0
+                0x0000000000000924       0x14 build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+                0x0000000000000924                _A_HD_BoxDestroyed_10x10_0
+ .rodata._A_HD_BoxDestroyed_10x10_1
+                0x0000000000000938       0x15 build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+                0x0000000000000938                _A_HD_BoxDestroyed_10x10_1
+ .rodata._A_HD_BoxDestroyed_10x10_2
+                0x000000000000094d       0x15 build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+                0x000000000000094d                _A_HD_BoxDestroyed_10x10_2
+ *fill*         0x0000000000000962        0x2 
+ .rodata.A_HD_game_over_128x64
+                0x0000000000000964        0x8 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000000964                A_HD_game_over_128x64
+ .rodata.A_HD_person_left_10x20
+                0x000000000000096c        0x8 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x000000000000096c                A_HD_person_left_10x20
+ .rodata.A_HD_person_right_10x20
+                0x0000000000000974        0x8 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000000974                A_HD_person_right_10x20
+ .rodata.A_HD_start_128x64
+                0x000000000000097c        0x8 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x000000000000097c                A_HD_start_128x64
+ .rodata.I_Background_128x64
+                0x0000000000000984        0x8 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000000984                I_Background_128x64
+ .rodata.I_Box1_10x10
+                0x000000000000098c        0x8 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x000000000000098c                I_Box1_10x10
+ .rodata.I_Box2_10x10
+                0x0000000000000994        0x8 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000000994                I_Box2_10x10
+ .rodata.I_Box3_10x10
+                0x000000000000099c        0x8 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x000000000000099c                I_Box3_10x10
+ .rodata.I_Box4_10x10
+                0x00000000000009a4        0x8 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x00000000000009a4                I_Box4_10x10
+ .rodata.I_Box5_10x10
+                0x00000000000009ac        0x8 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x00000000000009ac                I_Box5_10x10
+ .rodata._A_HD_game_over_128x64
+                0x00000000000009b4       0x1c build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x00000000000009b4                _A_HD_game_over_128x64
+ .rodata._A_HD_game_over_128x64_0
+                0x00000000000009d0      0x271 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x00000000000009d0                _A_HD_game_over_128x64_0
+ .rodata._A_HD_game_over_128x64_1
+                0x0000000000000c41      0x268 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000000c41                _A_HD_game_over_128x64_1
+ .rodata._A_HD_game_over_128x64_2
+                0x0000000000000ea9      0x25d build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000000ea9                _A_HD_game_over_128x64_2
+ .rodata._A_HD_game_over_128x64_3
+                0x0000000000001106      0x25d build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000001106                _A_HD_game_over_128x64_3
+ .rodata._A_HD_game_over_128x64_4
+                0x0000000000001363      0x261 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000001363                _A_HD_game_over_128x64_4
+ .rodata._A_HD_game_over_128x64_5
+                0x00000000000015c4      0x262 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x00000000000015c4                _A_HD_game_over_128x64_5
+ .rodata._A_HD_game_over_128x64_6
+                0x0000000000001826      0x267 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000001826                _A_HD_game_over_128x64_6
+ *fill*         0x0000000000001a8d        0x3 
+ .rodata._A_HD_person_left_10x20
+                0x0000000000001a90       0x10 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000001a90                _A_HD_person_left_10x20
+ .rodata._A_HD_person_left_10x20_0
+                0x0000000000001aa0       0x29 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000001aa0                _A_HD_person_left_10x20_0
+ .rodata._A_HD_person_left_10x20_1
+                0x0000000000001ac9       0x29 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000001ac9                _A_HD_person_left_10x20_1
+ .rodata._A_HD_person_left_10x20_2
+                0x0000000000001af2       0x29 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000001af2                _A_HD_person_left_10x20_2
+ .rodata._A_HD_person_left_10x20_3
+                0x0000000000001b1b       0x29 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000001b1b                _A_HD_person_left_10x20_3
+ .rodata._A_HD_person_right_10x20
+                0x0000000000001b44       0x10 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000001b44                _A_HD_person_right_10x20
+ .rodata._A_HD_person_right_10x20_0
+                0x0000000000001b54       0x29 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000001b54                _A_HD_person_right_10x20_0
+ .rodata._A_HD_person_right_10x20_1
+                0x0000000000001b7d       0x29 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000001b7d                _A_HD_person_right_10x20_1
+ .rodata._A_HD_person_right_10x20_2
+                0x0000000000001ba6       0x29 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000001ba6                _A_HD_person_right_10x20_2
+ .rodata._A_HD_person_right_10x20_3
+                0x0000000000001bcf       0x29 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000001bcf                _A_HD_person_right_10x20_3
+ .rodata._A_HD_start_128x64
+                0x0000000000001bf8       0x10 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000001bf8                _A_HD_start_128x64
+ .rodata._A_HD_start_128x64_0
+                0x0000000000001c08      0x283 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000001c08                _A_HD_start_128x64_0
+ .rodata._A_HD_start_128x64_1
+                0x0000000000001e8b      0x288 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000001e8b                _A_HD_start_128x64_1
+ .rodata._A_HD_start_128x64_2
+                0x0000000000002113      0x286 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000002113                _A_HD_start_128x64_2
+ .rodata._A_HD_start_128x64_3
+                0x0000000000002399      0x288 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000002399                _A_HD_start_128x64_3
+ *fill*         0x0000000000002621        0x3 
+ .rodata._I_Background_128x64
+                0x0000000000002624        0x4 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000002624                _I_Background_128x64
+ .rodata._I_Background_128x64_0
+                0x0000000000002628       0xc2 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000002628                _I_Background_128x64_0
+ *fill*         0x00000000000026ea        0x2 
+ .rodata._I_Box1_10x10
+                0x00000000000026ec        0x4 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x00000000000026ec                _I_Box1_10x10
+ .rodata._I_Box1_10x10_0
+                0x00000000000026f0       0x16 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x00000000000026f0                _I_Box1_10x10_0
+ *fill*         0x0000000000002706        0x2 
+ .rodata._I_Box2_10x10
+                0x0000000000002708        0x4 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000002708                _I_Box2_10x10
+ .rodata._I_Box2_10x10_0
+                0x000000000000270c        0xe build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x000000000000270c                _I_Box2_10x10_0
+ *fill*         0x000000000000271a        0x2 
+ .rodata._I_Box3_10x10
+                0x000000000000271c        0x4 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x000000000000271c                _I_Box3_10x10
+ .rodata._I_Box3_10x10_0
+                0x0000000000002720       0x12 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000002720                _I_Box3_10x10_0
+ *fill*         0x0000000000002732        0x2 
+ .rodata._I_Box4_10x10
+                0x0000000000002734        0x4 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000002734                _I_Box4_10x10
+ .rodata._I_Box4_10x10_0
+                0x0000000000002738       0x16 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000002738                _I_Box4_10x10_0
+ *fill*         0x000000000000274e        0x2 
+ .rodata._I_Box5_10x10
+                0x0000000000002750        0x4 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000002750                _I_Box5_10x10
+ .rodata._I_Box5_10x10_0
+                0x0000000000002754       0x15 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+                0x0000000000002754                _I_Box5_10x10_0
+
+.data           0x000000000000276c       0x10
+ *(.data)
+ *(.data1)
+ *(.data.*)
+ .data.tick_count.1
+                0x000000000000276c        0x1 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ *fill*         0x000000000000276d        0x3 
+ .data._A_HD_BoxDestroyed_10x10
+                0x0000000000002770        0xc build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+                0x0000000000002770                _A_HD_BoxDestroyed_10x10
+
+.bss            0x000000000000277c       0x14
+ *(.bss)
+ *(.bss*)
+ .bss.BOX_DESTROYED
+                0x000000000000277c        0x4 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ .bss.animations
+                0x0000000000002780       0x10 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.ARM.attributes
+                0x0000000000002790       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000002790       0x34 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ .ARM.attributes
+                0x00000000000027c4       0x34 build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+ .ARM.attributes
+                0x00000000000027f8       0x34 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+ *(.ARM.attributes.*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/Heap_Defence_d.elf elf32-littlearm)
+LOAD linker stubs
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+
+.debug_info     0x0000000000000000     0x3435
+ .debug_info    0x0000000000000000     0x298e build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ .debug_info    0x000000000000298e      0x192 build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+ .debug_info    0x0000000000002b20      0x915 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+
+.debug_abbrev   0x0000000000000000      0x6da
+ .debug_abbrev  0x0000000000000000      0x56f build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ .debug_abbrev  0x000000000000056f       0xb1 build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+ .debug_abbrev  0x0000000000000620       0xba build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+
+.debug_loc      0x0000000000000000      0xc5d
+ .debug_loc     0x0000000000000000      0xc5d build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_aranges  0x0000000000000000       0x80
+ .debug_aranges
+                0x0000000000000000       0x50 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ .debug_aranges
+                0x0000000000000050       0x18 build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+ .debug_aranges
+                0x0000000000000068       0x18 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+
+.debug_ranges   0x0000000000000000      0x2b0
+ .debug_ranges  0x0000000000000000      0x2b0 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000      0x5c9
+ .debug_macro   0x0000000000000000      0x4e5 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ .debug_macro   0x00000000000004e5       0x75 build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+ .debug_macro   0x000000000000055a       0x6f build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+
+.debug_macro    0x0000000000000000      0xaba
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x5e
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x1e
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0xe6
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x35
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000      0x174
+ .debug_macro   0x0000000000000000      0x174 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x43
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x57
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x58
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000      0x182
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000      0x341
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x35
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x19
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000      0x103
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x6a
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000      0x1df
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x29
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x70
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000      0x189
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000      0x15a
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0xdd
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x1f
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x12
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000      0x409
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0xc3
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000      0x120
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0xfb
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x52
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x52
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0xd5
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x3d
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000      0x176
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x4c
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x70
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x7c
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x17
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000      0x118
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000      0x11f
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000     0x2bf8
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0xb2
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x2e
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000     0x1011
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000      0x11f
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000    0x12ae9
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x6c
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000      0x147
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000      0x557
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000      0x175
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0x91
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000      0x24c
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000      0x330
+ .debug_macro   0x0000000000000000      0x330 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000      0x67b
+ .debug_macro   0x0000000000000000      0x67b build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_line     0x0000000000000000     0x199a
+ .debug_line    0x0000000000000000     0x14c5 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ .debug_line    0x00000000000014c5      0x262 build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+ .debug_line    0x0000000000001727      0x273 build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+
+.debug_str      0x0000000000000000    0xe12e9
+ .debug_str     0x0000000000000000    0xd8fe0 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+ .debug_str     0x00000000000d8fe0     0x3e8b build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+ .debug_str     0x00000000000dce6b     0x447e build/f7-firmware-C/.extapps/Heap_Defence/Heap_Defence_icons.o
+
+.debug_frame    0x0000000000000000       0xf4
+ .debug_frame   0x0000000000000000       0xf4 build/f7-firmware-C/.extapps/Heap_Defence/heap_defence.o
+
+.debug_macro    0x0000000000000000       0xe0
+ .debug_macro   0x0000000000000000       0xe0 build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o
+
+.debug_macro    0x0000000000000000       0x51
+ .debug_macro   0x0000000000000000       0x51 build/f7-firmware-C/.extapps/Heap_Defence/hede_assets.o

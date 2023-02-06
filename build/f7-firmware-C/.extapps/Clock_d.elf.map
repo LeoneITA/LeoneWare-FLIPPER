@@ -1,0 +1,1452 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_cos.o)
+                              build/f7-firmware-C/.extapps/Clock/clock_app.o (cos)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_sin.o)
+                              build/f7-firmware-C/.extapps/Clock/clock_app.o (sin)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_rem_pio2.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_cos.o) (__ieee754_rem_pio2)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_cos.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_cos.o) (__kernel_cos)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_rem_pio2.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_rem_pio2.o) (__kernel_rem_pio2)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_sin.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_cos.o) (__kernel_sin)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_fabs.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_rem_pio2.o) (fabs)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_floor.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_rem_pio2.o) (floor)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_scalbn.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_rem_pio2.o) (scalbn)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+                              build/f7-firmware-C/.extapps/Clock/clock_app.o (__aeabi_dmul)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_cos.o) (__aeabi_dsub)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_rem_pio2.o) (__aeabi_dcmpeq)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixdfsi.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_rem_pio2.o) (__aeabi_d2iz)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+                              build/f7-firmware-C/.extapps/Clock/clock_app.o (__aeabi_d2uiz)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Clock/clock_app.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Clock/clock_app.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Clock/clock_app.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/Clock/clock_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+ .text          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_cos.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_cos.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_cos.o)
+ .text          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_sin.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_sin.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_sin.o)
+ .text          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_rem_pio2.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_rem_pio2.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_rem_pio2.o)
+ .text          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_cos.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_cos.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_cos.o)
+ .text          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_rem_pio2.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_rem_pio2.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_rem_pio2.o)
+ .text          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_sin.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_sin.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_sin.o)
+ .text          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_fabs.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_fabs.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_fabs.o)
+ .text          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_floor.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_floor.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_floor.o)
+ .text          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_scalbn.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_scalbn.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_scalbn.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixdfsi.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/Clock/clock_app.o
+LOAD build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+
+.text           0x0000000000000000     0x2b34
+ *(.text)
+ .text          0x0000000000000000      0x254 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+                0x0000000000000000                __muldf3
+                0x0000000000000000                __aeabi_dmul
+ .text          0x0000000000000254      0x378 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                0x0000000000000254                __aeabi_drsub
+                0x000000000000025c                __aeabi_dsub
+                0x000000000000025c                __subdf3
+                0x0000000000000260                __aeabi_dadd
+                0x0000000000000260                __adddf3
+                0x00000000000004d8                __floatunsidf
+                0x00000000000004d8                __aeabi_ui2d
+                0x00000000000004f8                __floatsidf
+                0x00000000000004f8                __aeabi_i2d
+                0x000000000000051c                __aeabi_f2d
+                0x000000000000051c                __extendsfdf2
+                0x0000000000000560                __floatundidf
+                0x0000000000000560                __aeabi_ul2d
+                0x0000000000000570                __floatdidf
+                0x0000000000000570                __aeabi_l2d
+ .text          0x00000000000005cc      0x110 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+                0x00000000000005cc                __gtdf2
+                0x00000000000005cc                __gedf2
+                0x00000000000005d4                __ltdf2
+                0x00000000000005d4                __ledf2
+                0x00000000000005dc                __nedf2
+                0x00000000000005dc                __eqdf2
+                0x00000000000005dc                __cmpdf2
+                0x0000000000000658                __aeabi_cdrcmple
+                0x0000000000000668                __aeabi_cdcmpeq
+                0x0000000000000668                __aeabi_cdcmple
+                0x0000000000000678                __aeabi_dcmpeq
+                0x000000000000068c                __aeabi_dcmplt
+                0x00000000000006a0                __aeabi_dcmple
+                0x00000000000006b4                __aeabi_dcmpge
+                0x00000000000006c8                __aeabi_dcmpgt
+ .text          0x00000000000006dc       0x50 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixdfsi.o)
+                0x00000000000006dc                __aeabi_d2iz
+                0x00000000000006dc                __fixdfsi
+ .text          0x000000000000072c       0x40 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+                0x000000000000072c                __aeabi_d2uiz
+                0x000000000000072c                __fixunsdfsi
+ *(.stub)
+ *(.text*)
+ .text.clock_input_callback
+                0x000000000000076c       0x28 build/f7-firmware-C/.extapps/Clock/clock_app.o
+ .text.clock_tick
+                0x0000000000000794       0x1c build/f7-firmware-C/.extapps/Clock/clock_app.o
+ .text.angle_to_vector2
+                0x00000000000007b0       0xd4 build/f7-firmware-C/.extapps/Clock/clock_app.o
+ .text.clock_render_callback
+                0x0000000000000884      0x910 build/f7-firmware-C/.extapps/Clock/clock_app.o
+ .text.clock_app
+                0x0000000000001194      0x5a0 build/f7-firmware-C/.extapps/Clock/clock_app.o
+                0x0000000000001194                clock_app
+ *fill*         0x0000000000001734        0x4 
+ .text.cos      0x0000000000001738       0x90 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_cos.o)
+                0x0000000000001738                cos
+ .text.sin      0x00000000000017c8       0x90 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_sin.o)
+                0x00000000000017c8                sin
+ .text.__ieee754_rem_pio2
+                0x0000000000001858      0x44c d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_rem_pio2.o)
+                0x0000000000001858                __ieee754_rem_pio2
+ *fill*         0x0000000000001ca4        0x4 
+ .text.__kernel_cos
+                0x0000000000001ca8      0x27c d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_cos.o)
+                0x0000000000001ca8                __kernel_cos
+ *fill*         0x0000000000001f24        0x4 
+ .text.__kernel_rem_pio2
+                0x0000000000001f28      0x850 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_rem_pio2.o)
+                0x0000000000001f28                __kernel_rem_pio2
+ .text.__kernel_sin
+                0x0000000000002778      0x17c d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_sin.o)
+                0x0000000000002778                __kernel_sin
+ .text.fabs     0x00000000000028f4       0x14 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_fabs.o)
+                0x00000000000028f4                fabs
+ .text.floor    0x0000000000002908      0x108 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_floor.o)
+                0x0000000000002908                floor
+ .text.scalbn   0x0000000000002a10      0x124 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_scalbn.o)
+                0x0000000000002a10                scalbn
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x0000000000002b38     0x16b0
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.clock_render_callback.str1.1
+                0x0000000000002b38       0x8d build/f7-firmware-C/.extapps/Clock/clock_app.o
+ .rodata.clock_app.str1.1
+                0x0000000000002bc5       0x7b build/f7-firmware-C/.extapps/Clock/clock_app.o
+ .rodata.clock_alert_mario1
+                0x0000000000002c40       0x68 build/f7-firmware-C/.extapps/Clock/clock_app.o
+                0x0000000000002c40                clock_alert_mario1
+ .rodata.clock_alert_mario2
+                0x0000000000002ca8       0x48 build/f7-firmware-C/.extapps/Clock/clock_app.o
+                0x0000000000002ca8                clock_alert_mario2
+ .rodata.clock_alert_mario3
+                0x0000000000002cf0       0x50 build/f7-firmware-C/.extapps/Clock/clock_app.o
+                0x0000000000002cf0                clock_alert_mario3
+ .rodata.clock_alert_perMin
+                0x0000000000002d40       0x2c build/f7-firmware-C/.extapps/Clock/clock_app.o
+                0x0000000000002d40                clock_alert_perMin
+ .rodata.clock_alert_pr1
+                0x0000000000002d6c       0x50 build/f7-firmware-C/.extapps/Clock/clock_app.o
+                0x0000000000002d6c                clock_alert_pr1
+ .rodata.clock_alert_pr2
+                0x0000000000002dbc       0x4c build/f7-firmware-C/.extapps/Clock/clock_app.o
+                0x0000000000002dbc                clock_alert_pr2
+ .rodata.clock_alert_pr3
+                0x0000000000002e08       0x30 build/f7-firmware-C/.extapps/Clock/clock_app.o
+                0x0000000000002e08                clock_alert_pr3
+ .rodata.clock_alert_silent
+                0x0000000000002e38       0x28 build/f7-firmware-C/.extapps/Clock/clock_app.o
+                0x0000000000002e38                clock_alert_silent
+ .rodata.clock_alert_startStop
+                0x0000000000002e60       0x24 build/f7-firmware-C/.extapps/Clock/clock_app.o
+                0x0000000000002e60                clock_alert_startStop
+ .rodata.count_anim.4
+                0x0000000000002e84       0x14 build/f7-firmware-C/.extapps/Clock/clock_app.o
+ .rodata.count_anim2.1
+                0x0000000000002e98       0x10 build/f7-firmware-C/.extapps/Clock/clock_app.o
+ .rodata.count_anim3.0
+                0x0000000000002ea8       0x10 build/f7-firmware-C/.extapps/Clock/clock_app.o
+ .rodata.flip_face.3
+                0x0000000000002eb8       0x64 build/f7-firmware-C/.extapps/Clock/clock_app.o
+ .rodata.message_blue_127
+                0x0000000000002f1c       0x10 build/f7-firmware-C/.extapps/Clock/clock_app.o
+                0x0000000000002f1c                message_blue_127
+ .rodata.message_green_127
+                0x0000000000002f2c       0x10 build/f7-firmware-C/.extapps/Clock/clock_app.o
+                0x0000000000002f2c                message_green_127
+ .rodata.message_red_127
+                0x0000000000002f3c       0x10 build/f7-firmware-C/.extapps/Clock/clock_app.o
+                0x0000000000002f3c                message_red_127
+ .rodata.sequence_rainbow
+                0x0000000000002f4c       0xe4 build/f7-firmware-C/.extapps/Clock/clock_app.o
+                0x0000000000002f4c                sequence_rainbow
+ .rodata.I_EviSmile1_18x21
+                0x0000000000003030        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003030                I_EviSmile1_18x21
+ .rodata.I_EviSmile2_18x21
+                0x0000000000003038        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003038                I_EviSmile2_18x21
+ .rodata.I_EviWaiting1_18x21
+                0x0000000000003040        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003040                I_EviWaiting1_18x21
+ .rodata.I_EviWaiting2_18x21
+                0x0000000000003048        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003048                I_EviWaiting2_18x21
+ .rodata.I_G0ku
+                0x0000000000003050        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003050                I_G0ku
+ .rodata.I_GameMode_11x8
+                0x0000000000003058        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003058                I_GameMode_11x8
+ .rodata.I_HappyFlipper_128x64
+                0x0000000000003060        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003060                I_HappyFlipper_128x64
+ .rodata.I_angry_flipagotchi
+                0x0000000000003068        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003068                I_angry_flipagotchi
+ .rodata.I_awake_flipagotchi
+                0x0000000000003070        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003070                I_awake_flipagotchi
+ .rodata.I_black
+                0x0000000000003078        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003078                I_black
+ .rodata.I_bored_flipagotchi
+                0x0000000000003080        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003080                I_bored_flipagotchi
+ .rodata.I_broken_flipagotchi
+                0x0000000000003088        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003088                I_broken_flipagotchi
+ .rodata.I_cool_flipagotchi
+                0x0000000000003090        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003090                I_cool_flipagotchi
+ .rodata.I_debug_flipagotchi
+                0x0000000000003098        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003098                I_debug_flipagotchi
+ .rodata.I_demotivated_flipagotchi
+                0x00000000000030a0        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000030a0                I_demotivated_flipagotchi
+ .rodata.I_excited_flipagotchi
+                0x00000000000030a8        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000030a8                I_excited_flipagotchi
+ .rodata.I_frame_01
+                0x00000000000030b0        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000030b0                I_frame_01
+ .rodata.I_frame_02
+                0x00000000000030b8        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000030b8                I_frame_02
+ .rodata.I_frame_03
+                0x00000000000030c0        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000030c0                I_frame_03
+ .rodata.I_friend_flipagotchi
+                0x00000000000030c8        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000030c8                I_friend_flipagotchi
+ .rodata.I_g0ku_1
+                0x00000000000030d0        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000030d0                I_g0ku_1
+ .rodata.I_g0ku_2
+                0x00000000000030d8        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000030d8                I_g0ku_2
+ .rodata.I_g0ku_3
+                0x00000000000030e0        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000030e0                I_g0ku_3
+ .rodata.I_grateful_flipagotchi
+                0x00000000000030e8        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000030e8                I_grateful_flipagotchi
+ .rodata.I_happy_flipagotchi
+                0x00000000000030f0        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000030f0                I_happy_flipagotchi
+ .rodata.I_intense_flipagotchi
+                0x00000000000030f8        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000030f8                I_intense_flipagotchi
+ .rodata.I_lonely_flipagotchi
+                0x0000000000003100        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003100                I_lonely_flipagotchi
+ .rodata.I_look_l_flipagotchi
+                0x0000000000003108        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003108                I_look_l_flipagotchi
+ .rodata.I_look_l_happy_flipagotchi
+                0x0000000000003110        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003110                I_look_l_happy_flipagotchi
+ .rodata.I_look_r_flipagotchi
+                0x0000000000003118        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003118                I_look_r_flipagotchi
+ .rodata.I_look_r_happy_flipagotchi
+                0x0000000000003120        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003120                I_look_r_happy_flipagotchi
+ .rodata.I_motivated_flipagotchi
+                0x0000000000003128        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003128                I_motivated_flipagotchi
+ .rodata.I_sad_flipagotchi
+                0x0000000000003130        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003130                I_sad_flipagotchi
+ .rodata.I_sleep2_flipagotchi
+                0x0000000000003138        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003138                I_sleep2_flipagotchi
+ .rodata.I_sleep_flipagotchi
+                0x0000000000003140        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003140                I_sleep_flipagotchi
+ .rodata.I_smart_flipagotchi
+                0x0000000000003148        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003148                I_smart_flipagotchi
+ .rodata.I_upload1_flipagotchi
+                0x0000000000003150        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003150                I_upload1_flipagotchi
+ .rodata.I_upload2_flipagotchi
+                0x0000000000003158        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003158                I_upload2_flipagotchi
+ .rodata.I_upload_flipagotchi
+                0x0000000000003160        0x8 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003160                I_upload_flipagotchi
+ .rodata._I_EviSmile1_18x21
+                0x0000000000003168        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003168                _I_EviSmile1_18x21
+ .rodata._I_EviSmile1_18x21_0
+                0x000000000000316c       0x3d build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x000000000000316c                _I_EviSmile1_18x21_0
+ *fill*         0x00000000000031a9        0x3 
+ .rodata._I_EviSmile2_18x21
+                0x00000000000031ac        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000031ac                _I_EviSmile2_18x21
+ .rodata._I_EviSmile2_18x21_0
+                0x00000000000031b0       0x3b build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000031b0                _I_EviSmile2_18x21_0
+ *fill*         0x00000000000031eb        0x1 
+ .rodata._I_EviWaiting1_18x21
+                0x00000000000031ec        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000031ec                _I_EviWaiting1_18x21
+ .rodata._I_EviWaiting1_18x21_0
+                0x00000000000031f0       0x38 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000031f0                _I_EviWaiting1_18x21_0
+ .rodata._I_EviWaiting2_18x21
+                0x0000000000003228        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003228                _I_EviWaiting2_18x21
+ .rodata._I_EviWaiting2_18x21_0
+                0x000000000000322c       0x35 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x000000000000322c                _I_EviWaiting2_18x21_0
+ *fill*         0x0000000000003261        0x3 
+ .rodata._I_G0ku
+                0x0000000000003264        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003264                _I_G0ku
+ .rodata._I_G0ku_0
+                0x0000000000003268       0xb7 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003268                _I_G0ku_0
+ *fill*         0x000000000000331f        0x1 
+ .rodata._I_GameMode_11x8
+                0x0000000000003320        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003320                _I_GameMode_11x8
+ .rodata._I_GameMode_11x8_0
+                0x0000000000003324       0x11 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003324                _I_GameMode_11x8_0
+ *fill*         0x0000000000003335        0x3 
+ .rodata._I_HappyFlipper_128x64
+                0x0000000000003338        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003338                _I_HappyFlipper_128x64
+ .rodata._I_HappyFlipper_128x64_0
+                0x000000000000333c      0x1a4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x000000000000333c                _I_HappyFlipper_128x64_0
+ .rodata._I_angry_flipagotchi
+                0x00000000000034e0        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000034e0                _I_angry_flipagotchi
+ .rodata._I_angry_flipagotchi_0
+                0x00000000000034e4       0x3d build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000034e4                _I_angry_flipagotchi_0
+ *fill*         0x0000000000003521        0x3 
+ .rodata._I_awake_flipagotchi
+                0x0000000000003524        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003524                _I_awake_flipagotchi
+ .rodata._I_awake_flipagotchi_0
+                0x0000000000003528       0x4a build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003528                _I_awake_flipagotchi_0
+ *fill*         0x0000000000003572        0x2 
+ .rodata._I_black
+                0x0000000000003574        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003574                _I_black
+ .rodata._I_black_0
+                0x0000000000003578       0x6e build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003578                _I_black_0
+ *fill*         0x00000000000035e6        0x2 
+ .rodata._I_bored_flipagotchi
+                0x00000000000035e8        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000035e8                _I_bored_flipagotchi
+ .rodata._I_bored_flipagotchi_0
+                0x00000000000035ec       0x38 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000035ec                _I_bored_flipagotchi_0
+ .rodata._I_broken_flipagotchi
+                0x0000000000003624        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003624                _I_broken_flipagotchi
+ .rodata._I_broken_flipagotchi_0
+                0x0000000000003628       0x50 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003628                _I_broken_flipagotchi_0
+ .rodata._I_cool_flipagotchi
+                0x0000000000003678        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003678                _I_cool_flipagotchi
+ .rodata._I_cool_flipagotchi_0
+                0x000000000000367c       0x39 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x000000000000367c                _I_cool_flipagotchi_0
+ *fill*         0x00000000000036b5        0x3 
+ .rodata._I_debug_flipagotchi
+                0x00000000000036b8        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000036b8                _I_debug_flipagotchi
+ .rodata._I_debug_flipagotchi_0
+                0x00000000000036bc       0x48 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000036bc                _I_debug_flipagotchi_0
+ .rodata._I_demotivated_flipagotchi
+                0x0000000000003704        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003704                _I_demotivated_flipagotchi
+ .rodata._I_demotivated_flipagotchi_0
+                0x0000000000003708       0x3d build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003708                _I_demotivated_flipagotchi_0
+ *fill*         0x0000000000003745        0x3 
+ .rodata._I_excited_flipagotchi
+                0x0000000000003748        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003748                _I_excited_flipagotchi
+ .rodata._I_excited_flipagotchi_0
+                0x000000000000374c       0x40 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x000000000000374c                _I_excited_flipagotchi_0
+ .rodata._I_frame_01
+                0x000000000000378c        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x000000000000378c                _I_frame_01
+ .rodata._I_frame_01_0
+                0x0000000000003790       0x17 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003790                _I_frame_01_0
+ *fill*         0x00000000000037a7        0x1 
+ .rodata._I_frame_02
+                0x00000000000037a8        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000037a8                _I_frame_02
+ .rodata._I_frame_02_0
+                0x00000000000037ac       0x17 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000037ac                _I_frame_02_0
+ *fill*         0x00000000000037c3        0x1 
+ .rodata._I_frame_03
+                0x00000000000037c4        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000037c4                _I_frame_03
+ .rodata._I_frame_03_0
+                0x00000000000037c8       0x17 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000037c8                _I_frame_03_0
+ *fill*         0x00000000000037df        0x1 
+ .rodata._I_friend_flipagotchi
+                0x00000000000037e0        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000037e0                _I_friend_flipagotchi
+ .rodata._I_friend_flipagotchi_0
+                0x00000000000037e4       0x50 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000037e4                _I_friend_flipagotchi_0
+ .rodata._I_g0ku_1
+                0x0000000000003834        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003834                _I_g0ku_1
+ .rodata._I_g0ku_1_0
+                0x0000000000003838       0xb7 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003838                _I_g0ku_1_0
+ *fill*         0x00000000000038ef        0x1 
+ .rodata._I_g0ku_2
+                0x00000000000038f0        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000038f0                _I_g0ku_2
+ .rodata._I_g0ku_2_0
+                0x00000000000038f4      0x113 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x00000000000038f4                _I_g0ku_2_0
+ *fill*         0x0000000000003a07        0x1 
+ .rodata._I_g0ku_3
+                0x0000000000003a08        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003a08                _I_g0ku_3
+ .rodata._I_g0ku_3_0
+                0x0000000000003a0c      0x127 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003a0c                _I_g0ku_3_0
+ *fill*         0x0000000000003b33        0x1 
+ .rodata._I_grateful_flipagotchi
+                0x0000000000003b34        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003b34                _I_grateful_flipagotchi
+ .rodata._I_grateful_flipagotchi_0
+                0x0000000000003b38       0x48 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003b38                _I_grateful_flipagotchi_0
+ .rodata._I_happy_flipagotchi
+                0x0000000000003b80        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003b80                _I_happy_flipagotchi
+ .rodata._I_happy_flipagotchi_0
+                0x0000000000003b84       0x45 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003b84                _I_happy_flipagotchi_0
+ *fill*         0x0000000000003bc9        0x3 
+ .rodata._I_intense_flipagotchi
+                0x0000000000003bcc        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003bcc                _I_intense_flipagotchi
+ .rodata._I_intense_flipagotchi_0
+                0x0000000000003bd0       0x41 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003bd0                _I_intense_flipagotchi_0
+ *fill*         0x0000000000003c11        0x3 
+ .rodata._I_lonely_flipagotchi
+                0x0000000000003c14        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003c14                _I_lonely_flipagotchi
+ .rodata._I_lonely_flipagotchi_0
+                0x0000000000003c18       0x3f build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003c18                _I_lonely_flipagotchi_0
+ *fill*         0x0000000000003c57        0x1 
+ .rodata._I_look_l_flipagotchi
+                0x0000000000003c58        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003c58                _I_look_l_flipagotchi
+ .rodata._I_look_l_flipagotchi_0
+                0x0000000000003c5c       0x4f build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003c5c                _I_look_l_flipagotchi_0
+ *fill*         0x0000000000003cab        0x1 
+ .rodata._I_look_l_happy_flipagotchi
+                0x0000000000003cac        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003cac                _I_look_l_happy_flipagotchi
+ .rodata._I_look_l_happy_flipagotchi_0
+                0x0000000000003cb0       0x4f build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003cb0                _I_look_l_happy_flipagotchi_0
+ *fill*         0x0000000000003cff        0x1 
+ .rodata._I_look_r_flipagotchi
+                0x0000000000003d00        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003d00                _I_look_r_flipagotchi
+ .rodata._I_look_r_flipagotchi_0
+                0x0000000000003d04       0x52 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003d04                _I_look_r_flipagotchi_0
+ *fill*         0x0000000000003d56        0x2 
+ .rodata._I_look_r_happy_flipagotchi
+                0x0000000000003d58        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003d58                _I_look_r_happy_flipagotchi
+ .rodata._I_look_r_happy_flipagotchi_0
+                0x0000000000003d5c       0x4f build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003d5c                _I_look_r_happy_flipagotchi_0
+ *fill*         0x0000000000003dab        0x1 
+ .rodata._I_motivated_flipagotchi
+                0x0000000000003dac        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003dac                _I_motivated_flipagotchi
+ .rodata._I_motivated_flipagotchi_0
+                0x0000000000003db0       0x4b build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003db0                _I_motivated_flipagotchi_0
+ *fill*         0x0000000000003dfb        0x1 
+ .rodata._I_sad_flipagotchi
+                0x0000000000003dfc        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003dfc                _I_sad_flipagotchi
+ .rodata._I_sad_flipagotchi_0
+                0x0000000000003e00       0x47 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003e00                _I_sad_flipagotchi_0
+ *fill*         0x0000000000003e47        0x1 
+ .rodata._I_sleep2_flipagotchi
+                0x0000000000003e48        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003e48                _I_sleep2_flipagotchi
+ .rodata._I_sleep2_flipagotchi_0
+                0x0000000000003e4c       0x46 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003e4c                _I_sleep2_flipagotchi_0
+ *fill*         0x0000000000003e92        0x2 
+ .rodata._I_sleep_flipagotchi
+                0x0000000000003e94        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003e94                _I_sleep_flipagotchi
+ .rodata._I_sleep_flipagotchi_0
+                0x0000000000003e98       0x46 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003e98                _I_sleep_flipagotchi_0
+ *fill*         0x0000000000003ede        0x2 
+ .rodata._I_smart_flipagotchi
+                0x0000000000003ee0        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003ee0                _I_smart_flipagotchi
+ .rodata._I_smart_flipagotchi_0
+                0x0000000000003ee4       0x49 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003ee4                _I_smart_flipagotchi_0
+ *fill*         0x0000000000003f2d        0x3 
+ .rodata._I_upload1_flipagotchi
+                0x0000000000003f30        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003f30                _I_upload1_flipagotchi
+ .rodata._I_upload1_flipagotchi_0
+                0x0000000000003f34       0x40 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003f34                _I_upload1_flipagotchi_0
+ .rodata._I_upload2_flipagotchi
+                0x0000000000003f74        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003f74                _I_upload2_flipagotchi
+ .rodata._I_upload2_flipagotchi_0
+                0x0000000000003f78       0x48 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003f78                _I_upload2_flipagotchi_0
+ .rodata._I_upload_flipagotchi
+                0x0000000000003fc0        0x4 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003fc0                _I_upload_flipagotchi
+ .rodata._I_upload_flipagotchi_0
+                0x0000000000003fc4       0x47 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+                0x0000000000003fc4                _I_upload_flipagotchi_0
+ *fill*         0x000000000000400b        0x1 
+ .rodata.npio2_hw
+                0x000000000000400c       0x80 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_rem_pio2.o)
+ .rodata.two_over_pi
+                0x000000000000408c      0x108 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_rem_pio2.o)
+ *fill*         0x0000000000004194        0x4 
+ .rodata.PIo2   0x0000000000004198       0x40 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_rem_pio2.o)
+ .rodata.init_jk
+                0x00000000000041d8       0x10 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_rem_pio2.o)
+
+.data
+ *(.data)
+ *(.data1)
+ *(.data.*)
+
+.bss
+ *(.bss)
+ *(.bss*)
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.ARM.attributes
+                0x00000000000041e8       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000000041e8       0x34 build/f7-firmware-C/.extapps/Clock/clock_app.o
+ .ARM.attributes
+                0x000000000000421c       0x34 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+ .ARM.attributes
+                0x0000000000004250       0x34 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_cos.o)
+ .ARM.attributes
+                0x0000000000004284       0x34 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_sin.o)
+ .ARM.attributes
+                0x00000000000042b8       0x34 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_rem_pio2.o)
+ .ARM.attributes
+                0x00000000000042ec       0x34 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_cos.o)
+ .ARM.attributes
+                0x0000000000004320       0x34 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_rem_pio2.o)
+ .ARM.attributes
+                0x0000000000004354       0x34 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_sin.o)
+ .ARM.attributes
+                0x0000000000004388       0x34 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_fabs.o)
+ .ARM.attributes
+                0x00000000000043bc       0x34 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_floor.o)
+ .ARM.attributes
+                0x00000000000043f0       0x34 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_scalbn.o)
+ .ARM.attributes
+                0x0000000000004424       0x1e d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .ARM.attributes
+                0x0000000000004442       0x1e d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000000000004460       0x1e d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x000000000000447e       0x1e d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x000000000000449c       0x1e d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ *(.ARM.attributes.*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/Clock_d.elf elf32-littlearm)
+LOAD linker stubs
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+
+.debug_info     0x0000000000000000     0x3d7d
+ .debug_info    0x0000000000000000     0x30f0 build/f7-firmware-C/.extapps/Clock/clock_app.o
+ .debug_info    0x00000000000030f0      0xc8d build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+
+.debug_abbrev   0x0000000000000000      0x497
+ .debug_abbrev  0x0000000000000000      0x3dd build/f7-firmware-C/.extapps/Clock/clock_app.o
+ .debug_abbrev  0x00000000000003dd       0xba build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+
+.debug_loc      0x0000000000000000      0x95b
+ .debug_loc     0x0000000000000000      0x95b build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_aranges  0x0000000000000000       0x58
+ .debug_aranges
+                0x0000000000000000       0x40 build/f7-firmware-C/.extapps/Clock/clock_app.o
+ .debug_aranges
+                0x0000000000000040       0x18 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+
+.debug_ranges   0x0000000000000000      0x178
+ .debug_ranges  0x0000000000000000      0x178 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x83c
+ .debug_macro   0x0000000000000000      0x7cd build/f7-firmware-C/.extapps/Clock/clock_app.o
+ .debug_macro   0x00000000000007cd       0x6f build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+
+.debug_macro    0x0000000000000000      0xaba
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x5e
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x1e
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0xe6
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x35
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x174
+ .debug_macro   0x0000000000000000      0x174 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x43
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x57
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x58
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x182
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x341
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x19b
+ .debug_macro   0x0000000000000000      0x19b build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x35
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x29
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x70
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x103
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x6a
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x1df
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x189
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x15a
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0xdd
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x1f
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x12
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x409
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0xc3
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x120
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0xfb
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x52
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x52
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0xd5
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x3d
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x176
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x4c
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x70
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x19
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x7c
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x17
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x118
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x11f
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000     0x2bf8
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0xb2
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x2e
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000     0x1011
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x11f
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000    0x12ae9
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x6c
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x147
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x557
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x175
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x91
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x89a
+ .debug_macro   0x0000000000000000      0x89a build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x1d2
+ .debug_macro   0x0000000000000000      0x1d2 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x259
+ .debug_macro   0x0000000000000000      0x259 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x24d
+ .debug_macro   0x0000000000000000      0x24d build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x24c
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x904
+ .debug_macro   0x0000000000000000      0x904 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0xaa
+ .debug_macro   0x0000000000000000       0xaa build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x16f
+ .debug_macro   0x0000000000000000      0x16f build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0xd6
+ .debug_macro   0x0000000000000000       0xd6 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x255
+ .debug_macro   0x0000000000000000      0x255 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x6d
+ .debug_macro   0x0000000000000000       0x6d build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0xc0
+ .debug_macro   0x0000000000000000       0xc0 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0xd1
+ .debug_macro   0x0000000000000000       0xd1 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x3a
+ .debug_macro   0x0000000000000000       0x3a build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x1c2
+ .debug_macro   0x0000000000000000      0x1c2 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x1ce
+ .debug_macro   0x0000000000000000      0x1ce build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x5e
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0xff
+ .debug_macro   0x0000000000000000       0xff build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0xe2
+ .debug_macro   0x0000000000000000       0xe2 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x5f6
+ .debug_macro   0x0000000000000000      0x5f6 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x12
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x1ba
+ .debug_macro   0x0000000000000000      0x1ba build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x586
+ .debug_macro   0x0000000000000000      0x586 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x9b0
+ .debug_macro   0x0000000000000000      0x9b0 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000      0x1de
+ .debug_macro   0x0000000000000000      0x1de build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x11
+ .debug_macro   0x0000000000000000       0x11 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x17
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x2e
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_macro    0x0000000000000000       0x6a
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/Clock/clock_app.o
+
+.debug_line     0x0000000000000000     0x20b4
+ .debug_line    0x0000000000000000     0x1e56 build/f7-firmware-C/.extapps/Clock/clock_app.o
+ .debug_line    0x0000000000001e56      0x25e build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+
+.debug_str      0x0000000000000000    0xf3391
+ .debug_str     0x0000000000000000    0xeec77 build/f7-firmware-C/.extapps/Clock/clock_app.o
+ .debug_str     0x00000000000eec77     0x471a build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+
+.debug_frame    0x0000000000000000      0x564
+ .debug_frame   0x0000000000000000       0xf8 build/f7-firmware-C/.extapps/Clock/clock_app.o
+ .debug_frame   0x00000000000000f8       0x40 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_cos.o)
+ .debug_frame   0x0000000000000138       0x3c d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_sin.o)
+ .debug_frame   0x0000000000000174       0x7c d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_rem_pio2.o)
+ .debug_frame   0x00000000000001f0       0x70 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_cos.o)
+ .debug_frame   0x0000000000000260       0x58 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_rem_pio2.o)
+ .debug_frame   0x00000000000002b8       0x48 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-k_sin.o)
+ .debug_frame   0x0000000000000300       0x20 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_fabs.o)
+ .debug_frame   0x0000000000000320       0x30 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_floor.o)
+ .debug_frame   0x0000000000000350       0x2c d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_scalbn.o)
+ .debug_frame   0x000000000000037c       0x30 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .debug_frame   0x00000000000003ac       0xac d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x0000000000000458       0xc4 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x000000000000051c       0x24 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixdfsi.o)
+ .debug_frame   0x0000000000000540       0x24 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+
+.debug_macro    0x0000000000000000       0xe0
+ .debug_macro   0x0000000000000000       0xe0 build/f7-firmware-C/.extapps/Clock/Clock_icons.o
+
+.debug_macro    0x0000000000000000       0x51
+ .debug_macro   0x0000000000000000       0x51 build/f7-firmware-C/.extapps/Clock/Clock_icons.o

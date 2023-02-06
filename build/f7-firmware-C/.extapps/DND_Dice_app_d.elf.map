@@ -1,0 +1,1080 @@
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+ .text.isDiceNameVisible
+                0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+ .text.isMenuState
+                0x0000000000000000        0xa build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+ .rodata.screen_pos
+                0x0000000000000000        0x0 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+ .rodata.I_ui_button_down
+                0x0000000000000000        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+ .rodata.I_ui_button_up
+                0x0000000000000000        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+ .rodata._I_ui_button_down
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+ .rodata._I_ui_button_down_0
+                0x0000000000000000        0x5 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+ .rodata._I_ui_button_up
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+ .rodata._I_ui_button_up_0
+                0x0000000000000000        0x5 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+LOAD build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+
+.text           0x0000000000000000      0x7c8
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text.timer_callback
+                0x0000000000000000       0x1c build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+ .text.input_callback
+                0x000000000000001c       0x28 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+ .text.init     0x0000000000000044       0x5c build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+                0x0000000000000044                init
+ .text.coin_set_start
+                0x00000000000000a0       0x20 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+                0x00000000000000a0                coin_set_start
+ .text.coin_set_end
+                0x00000000000000c0       0x20 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+                0x00000000000000c0                coin_set_end
+ .text.isResultVisible
+                0x00000000000000e0       0x12 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+                0x00000000000000e0                isResultVisible
+ .text.isDiceButtonsVisible
+                0x00000000000000f2        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+                0x00000000000000f2                isDiceButtonsVisible
+ .text.isOneDice
+                0x00000000000000fe        0xe build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+                0x00000000000000fe                isOneDice
+ .text.isDiceSettingsDisabled
+                0x000000000000010c       0x20 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+                0x000000000000010c                isDiceSettingsDisabled
+ .text.isAnimState
+                0x000000000000012c        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+                0x000000000000012c                isAnimState
+ .text.draw_callback
+                0x0000000000000138      0x2d8 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+ .text.dice_dnd_app
+                0x0000000000000410      0x3b8 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+                0x0000000000000410                dice_dnd_app
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x00000000000007c8     0x1868
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.draw_callback.str1.1
+                0x00000000000007c8        0xb build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+ .rodata.dice_dnd_app.str1.1
+                0x00000000000007d3       0x51 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+ .rodata.str1.1
+                0x0000000000000824       0x1f build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+ *fill*         0x0000000000000843        0x1 
+ .rodata.dice_types
+                0x0000000000000844       0x80 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+ .rodata.result_frame_pos_y
+                0x00000000000008c4        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+                0x00000000000008c4                result_frame_pos_y
+ .rodata.I_coin_1
+                0x00000000000008c8        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000008c8                I_coin_1
+ .rodata.I_coin_2
+                0x00000000000008d0        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000008d0                I_coin_2
+ .rodata.I_coin_3
+                0x00000000000008d8        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000008d8                I_coin_3
+ .rodata.I_coin_4
+                0x00000000000008e0        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000008e0                I_coin_4
+ .rodata.I_coin_5
+                0x00000000000008e8        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000008e8                I_coin_5
+ .rodata.I_coin_6
+                0x00000000000008f0        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000008f0                I_coin_6
+ .rodata.I_coin_7
+                0x00000000000008f8        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000008f8                I_coin_7
+ .rodata.I_d100_1
+                0x0000000000000900        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000900                I_d100_1
+ .rodata.I_d100_2
+                0x0000000000000908        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000908                I_d100_2
+ .rodata.I_d100_3
+                0x0000000000000910        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000910                I_d100_3
+ .rodata.I_d100_4
+                0x0000000000000918        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000918                I_d100_4
+ .rodata.I_d10_1
+                0x0000000000000920        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000920                I_d10_1
+ .rodata.I_d10_2
+                0x0000000000000928        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000928                I_d10_2
+ .rodata.I_d10_3
+                0x0000000000000930        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000930                I_d10_3
+ .rodata.I_d10_4
+                0x0000000000000938        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000938                I_d10_4
+ .rodata.I_d12_1
+                0x0000000000000940        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000940                I_d12_1
+ .rodata.I_d12_2
+                0x0000000000000948        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000948                I_d12_2
+ .rodata.I_d12_3
+                0x0000000000000950        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000950                I_d12_3
+ .rodata.I_d12_4
+                0x0000000000000958        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000958                I_d12_4
+ .rodata.I_d20_1
+                0x0000000000000960        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000960                I_d20_1
+ .rodata.I_d20_2
+                0x0000000000000968        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000968                I_d20_2
+ .rodata.I_d20_3
+                0x0000000000000970        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000970                I_d20_3
+ .rodata.I_d20_4
+                0x0000000000000978        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000978                I_d20_4
+ .rodata.I_d4_1
+                0x0000000000000980        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000980                I_d4_1
+ .rodata.I_d4_2
+                0x0000000000000988        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000988                I_d4_2
+ .rodata.I_d4_3
+                0x0000000000000990        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000990                I_d4_3
+ .rodata.I_d6_1
+                0x0000000000000998        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000998                I_d6_1
+ .rodata.I_d6_2
+                0x00000000000009a0        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000009a0                I_d6_2
+ .rodata.I_d6_3
+                0x00000000000009a8        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000009a8                I_d6_3
+ .rodata.I_d6_4
+                0x00000000000009b0        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000009b0                I_d6_4
+ .rodata.I_d8_1
+                0x00000000000009b8        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000009b8                I_d8_1
+ .rodata.I_d8_2
+                0x00000000000009c0        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000009c0                I_d8_2
+ .rodata.I_d8_3
+                0x00000000000009c8        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000009c8                I_d8_3
+ .rodata.I_d8_4
+                0x00000000000009d0        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000009d0                I_d8_4
+ .rodata.I_ui_button_back
+                0x00000000000009d8        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000009d8                I_ui_button_back
+ .rodata.I_ui_button_exit
+                0x00000000000009e0        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000009e0                I_ui_button_exit
+ .rodata.I_ui_button_left
+                0x00000000000009e8        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000009e8                I_ui_button_left
+ .rodata.I_ui_button_right
+                0x00000000000009f0        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000009f0                I_ui_button_right
+ .rodata.I_ui_button_roll
+                0x00000000000009f8        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000009f8                I_ui_button_roll
+ .rodata.I_ui_count
+                0x0000000000000a00        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000a00                I_ui_count
+ .rodata.I_ui_count_1
+                0x0000000000000a08        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000a08                I_ui_count_1
+ .rodata.I_ui_result_border
+                0x0000000000000a10        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000a10                I_ui_result_border
+ .rodata._I_coin_1
+                0x0000000000000a18        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000a18                _I_coin_1
+ .rodata._I_coin_1_0
+                0x0000000000000a1c       0xb0 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000a1c                _I_coin_1_0
+ .rodata._I_coin_2
+                0x0000000000000acc        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000acc                _I_coin_2
+ .rodata._I_coin_2_0
+                0x0000000000000ad0       0x8d build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000ad0                _I_coin_2_0
+ *fill*         0x0000000000000b5d        0x3 
+ .rodata._I_coin_3
+                0x0000000000000b60        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000b60                _I_coin_3
+ .rodata._I_coin_3_0
+                0x0000000000000b64       0x27 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000b64                _I_coin_3_0
+ *fill*         0x0000000000000b8b        0x1 
+ .rodata._I_coin_4
+                0x0000000000000b8c        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000b8c                _I_coin_4
+ .rodata._I_coin_4_0
+                0x0000000000000b90       0x8f build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000b90                _I_coin_4_0
+ *fill*         0x0000000000000c1f        0x1 
+ .rodata._I_coin_5
+                0x0000000000000c20        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000c20                _I_coin_5
+ .rodata._I_coin_5_0
+                0x0000000000000c24       0xaf build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000c24                _I_coin_5_0
+ *fill*         0x0000000000000cd3        0x1 
+ .rodata._I_coin_6
+                0x0000000000000cd4        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000cd4                _I_coin_6
+ .rodata._I_coin_6_0
+                0x0000000000000cd8       0x8d build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000cd8                _I_coin_6_0
+ *fill*         0x0000000000000d65        0x3 
+ .rodata._I_coin_7
+                0x0000000000000d68        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000d68                _I_coin_7
+ .rodata._I_coin_7_0
+                0x0000000000000d6c       0x8b build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000d6c                _I_coin_7_0
+ *fill*         0x0000000000000df7        0x1 
+ .rodata._I_d100_1
+                0x0000000000000df8        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000df8                _I_d100_1
+ .rodata._I_d100_1_0
+                0x0000000000000dfc       0xb0 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000dfc                _I_d100_1_0
+ .rodata._I_d100_2
+                0x0000000000000eac        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000eac                _I_d100_2
+ .rodata._I_d100_2_0
+                0x0000000000000eb0       0xae build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000eb0                _I_d100_2_0
+ *fill*         0x0000000000000f5e        0x2 
+ .rodata._I_d100_3
+                0x0000000000000f60        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000f60                _I_d100_3
+ .rodata._I_d100_3_0
+                0x0000000000000f64       0xb0 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000000f64                _I_d100_3_0
+ .rodata._I_d100_4
+                0x0000000000001014        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001014                _I_d100_4
+ .rodata._I_d100_4_0
+                0x0000000000001018       0xb1 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001018                _I_d100_4_0
+ *fill*         0x00000000000010c9        0x3 
+ .rodata._I_d10_1
+                0x00000000000010cc        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000010cc                _I_d10_1
+ .rodata._I_d10_1_0
+                0x00000000000010d0       0x93 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000010d0                _I_d10_1_0
+ *fill*         0x0000000000001163        0x1 
+ .rodata._I_d10_2
+                0x0000000000001164        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001164                _I_d10_2
+ .rodata._I_d10_2_0
+                0x0000000000001168       0x92 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001168                _I_d10_2_0
+ *fill*         0x00000000000011fa        0x2 
+ .rodata._I_d10_3
+                0x00000000000011fc        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000011fc                _I_d10_3
+ .rodata._I_d10_3_0
+                0x0000000000001200       0x93 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001200                _I_d10_3_0
+ *fill*         0x0000000000001293        0x1 
+ .rodata._I_d10_4
+                0x0000000000001294        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001294                _I_d10_4
+ .rodata._I_d10_4_0
+                0x0000000000001298       0x91 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001298                _I_d10_4_0
+ *fill*         0x0000000000001329        0x3 
+ .rodata._I_d12_1
+                0x000000000000132c        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x000000000000132c                _I_d12_1
+ .rodata._I_d12_1_0
+                0x0000000000001330       0xa9 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001330                _I_d12_1_0
+ *fill*         0x00000000000013d9        0x3 
+ .rodata._I_d12_2
+                0x00000000000013dc        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000013dc                _I_d12_2
+ .rodata._I_d12_2_0
+                0x00000000000013e0       0x9b build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000013e0                _I_d12_2_0
+ *fill*         0x000000000000147b        0x1 
+ .rodata._I_d12_3
+                0x000000000000147c        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x000000000000147c                _I_d12_3
+ .rodata._I_d12_3_0
+                0x0000000000001480       0xaa build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001480                _I_d12_3_0
+ *fill*         0x000000000000152a        0x2 
+ .rodata._I_d12_4
+                0x000000000000152c        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x000000000000152c                _I_d12_4
+ .rodata._I_d12_4_0
+                0x0000000000001530       0x97 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001530                _I_d12_4_0
+ *fill*         0x00000000000015c7        0x1 
+ .rodata._I_d20_1
+                0x00000000000015c8        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000015c8                _I_d20_1
+ .rodata._I_d20_1_0
+                0x00000000000015cc       0xa5 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000015cc                _I_d20_1_0
+ *fill*         0x0000000000001671        0x3 
+ .rodata._I_d20_2
+                0x0000000000001674        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001674                _I_d20_2
+ .rodata._I_d20_2_0
+                0x0000000000001678       0x99 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001678                _I_d20_2_0
+ *fill*         0x0000000000001711        0x3 
+ .rodata._I_d20_3
+                0x0000000000001714        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001714                _I_d20_3
+ .rodata._I_d20_3_0
+                0x0000000000001718       0xa6 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001718                _I_d20_3_0
+ *fill*         0x00000000000017be        0x2 
+ .rodata._I_d20_4
+                0x00000000000017c0        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000017c0                _I_d20_4
+ .rodata._I_d20_4_0
+                0x00000000000017c4       0x99 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000017c4                _I_d20_4_0
+ *fill*         0x000000000000185d        0x3 
+ .rodata._I_d4_1
+                0x0000000000001860        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001860                _I_d4_1
+ .rodata._I_d4_1_0
+                0x0000000000001864       0x78 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001864                _I_d4_1_0
+ .rodata._I_d4_2
+                0x00000000000018dc        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000018dc                _I_d4_2
+ .rodata._I_d4_2_0
+                0x00000000000018e0       0x95 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000018e0                _I_d4_2_0
+ *fill*         0x0000000000001975        0x3 
+ .rodata._I_d4_3
+                0x0000000000001978        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001978                _I_d4_3
+ .rodata._I_d4_3_0
+                0x000000000000197c       0x71 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x000000000000197c                _I_d4_3_0
+ *fill*         0x00000000000019ed        0x3 
+ .rodata._I_d6_1
+                0x00000000000019f0        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000019f0                _I_d6_1
+ .rodata._I_d6_1_0
+                0x00000000000019f4       0xa4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x00000000000019f4                _I_d6_1_0
+ .rodata._I_d6_2
+                0x0000000000001a98        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001a98                _I_d6_2
+ .rodata._I_d6_2_0
+                0x0000000000001a9c       0x98 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001a9c                _I_d6_2_0
+ .rodata._I_d6_3
+                0x0000000000001b34        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001b34                _I_d6_3
+ .rodata._I_d6_3_0
+                0x0000000000001b38       0xa1 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001b38                _I_d6_3_0
+ *fill*         0x0000000000001bd9        0x3 
+ .rodata._I_d6_4
+                0x0000000000001bdc        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001bdc                _I_d6_4
+ .rodata._I_d6_4_0
+                0x0000000000001be0       0x95 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001be0                _I_d6_4_0
+ *fill*         0x0000000000001c75        0x3 
+ .rodata._I_d8_1
+                0x0000000000001c78        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001c78                _I_d8_1
+ .rodata._I_d8_1_0
+                0x0000000000001c7c       0x92 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001c7c                _I_d8_1_0
+ *fill*         0x0000000000001d0e        0x2 
+ .rodata._I_d8_2
+                0x0000000000001d10        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001d10                _I_d8_2
+ .rodata._I_d8_2_0
+                0x0000000000001d14       0x93 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001d14                _I_d8_2_0
+ *fill*         0x0000000000001da7        0x1 
+ .rodata._I_d8_3
+                0x0000000000001da8        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001da8                _I_d8_3
+ .rodata._I_d8_3_0
+                0x0000000000001dac       0x93 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001dac                _I_d8_3_0
+ *fill*         0x0000000000001e3f        0x1 
+ .rodata._I_d8_4
+                0x0000000000001e40        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001e40                _I_d8_4
+ .rodata._I_d8_4_0
+                0x0000000000001e44       0x95 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001e44                _I_d8_4_0
+ *fill*         0x0000000000001ed9        0x3 
+ .rodata._I_ui_button_back
+                0x0000000000001edc        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001edc                _I_ui_button_back
+ .rodata._I_ui_button_back_0
+                0x0000000000001ee0       0x33 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001ee0                _I_ui_button_back_0
+ *fill*         0x0000000000001f13        0x1 
+ .rodata._I_ui_button_exit
+                0x0000000000001f14        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001f14                _I_ui_button_exit
+ .rodata._I_ui_button_exit_0
+                0x0000000000001f18       0x31 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001f18                _I_ui_button_exit_0
+ *fill*         0x0000000000001f49        0x3 
+ .rodata._I_ui_button_left
+                0x0000000000001f4c        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001f4c                _I_ui_button_left
+ .rodata._I_ui_button_left_0
+                0x0000000000001f50        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001f50                _I_ui_button_left_0
+ .rodata._I_ui_button_right
+                0x0000000000001f58        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001f58                _I_ui_button_right
+ .rodata._I_ui_button_right_0
+                0x0000000000001f5c        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001f5c                _I_ui_button_right_0
+ .rodata._I_ui_button_roll
+                0x0000000000001f64        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001f64                _I_ui_button_roll
+ .rodata._I_ui_button_roll_0
+                0x0000000000001f68       0x27 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001f68                _I_ui_button_roll_0
+ *fill*         0x0000000000001f8f        0x1 
+ .rodata._I_ui_count
+                0x0000000000001f90        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001f90                _I_ui_count
+ .rodata._I_ui_count_0
+                0x0000000000001f94       0x2b build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001f94                _I_ui_count_0
+ *fill*         0x0000000000001fbf        0x1 
+ .rodata._I_ui_count_1
+                0x0000000000001fc0        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001fc0                _I_ui_count_1
+ .rodata._I_ui_count_1_0
+                0x0000000000001fc4       0x2c build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001fc4                _I_ui_count_1_0
+ .rodata._I_ui_result_border
+                0x0000000000001ff0        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001ff0                _I_ui_result_border
+ .rodata._I_ui_result_border_0
+                0x0000000000001ff4       0x3c build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+                0x0000000000001ff4                _I_ui_result_border_0
+
+.data           0x0000000000002030       0xb4
+ *(.data)
+ *(.data1)
+ *(.data.*)
+ .data.coin_frames
+                0x0000000000002030       0x24 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+                0x0000000000002030                coin_frames
+ .data.coin_heads_end
+                0x0000000000002054        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+                0x0000000000002054                coin_heads_end
+ .data.coin_heads_start
+                0x000000000000205c        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+                0x000000000000205c                coin_heads_start
+ .data.coin_tails_end
+                0x0000000000002064        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+                0x0000000000002064                coin_tails_end
+ .data.coin_tails_start
+                0x000000000000206c        0x8 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+                0x000000000000206c                coin_tails_start
+ .data.dice_frames
+                0x0000000000002074       0x70 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+                0x0000000000002074                dice_frames
+
+.bss            0x00000000000020e4        0x4
+ *(.bss)
+ *(.bss*)
+ .bss.draw_dice_frame
+                0x00000000000020e4        0x4 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+                0x00000000000020e4                draw_dice_frame
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.ARM.attributes
+                0x00000000000020e8       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000000020e8       0x34 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+ .ARM.attributes
+                0x000000000000211c       0x34 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+ *(.ARM.attributes.*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/DND_Dice_app_d.elf elf32-littlearm)
+LOAD linker stubs
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+
+.debug_info     0x0000000000000000     0x271f
+ .debug_info    0x0000000000000000     0x18e1 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+ .debug_info    0x00000000000018e1      0xe3e build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+
+.debug_abbrev   0x0000000000000000      0x46b
+ .debug_abbrev  0x0000000000000000      0x3ba build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+ .debug_abbrev  0x00000000000003ba       0xb1 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+
+.debug_loc      0x0000000000000000      0x809
+ .debug_loc     0x0000000000000000      0x809 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_aranges  0x0000000000000000       0xa0
+ .debug_aranges
+                0x0000000000000000       0x88 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+ .debug_aranges
+                0x0000000000000088       0x18 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+
+.debug_ranges   0x0000000000000000      0x1d0
+ .debug_ranges  0x0000000000000000      0x1d0 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000      0x4d5
+ .debug_macro   0x0000000000000000      0x466 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+ .debug_macro   0x0000000000000466       0x6f build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+
+.debug_macro    0x0000000000000000      0xaba
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x1e
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x5e
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0xe6
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x35
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000      0x10e
+ .debug_macro   0x0000000000000000      0x10e build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x8d
+ .debug_macro   0x0000000000000000       0x8d build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x43
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x57
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x58
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000      0x182
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000      0x341
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x29
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x70
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000      0x103
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x6a
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000      0x1df
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000      0x189
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000      0x15a
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0xdd
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x1f
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x12
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000      0x409
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0xc3
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000      0x120
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0xfb
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x35
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x52
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x52
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0xd5
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x3d
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000      0x176
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x4c
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x70
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x19
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x7c
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x17
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000      0x118
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000      0x11f
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000     0x2bf8
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0xb2
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x2e
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000     0x1011
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000      0x11f
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000    0x12ae9
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x6c
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000      0x147
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000      0x557
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000      0x175
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x91
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000      0x24c
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0x4c
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_line     0x0000000000000000     0x1440
+ .debug_line    0x0000000000000000     0x11cd build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+ .debug_line    0x00000000000011cd      0x273 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+
+.debug_str      0x0000000000000000    0xd8d9b
+ .debug_str     0x0000000000000000    0xd49d4 build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+ .debug_str     0x00000000000d49d4     0x43c7 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+
+.debug_frame    0x0000000000000000      0x17c
+ .debug_frame   0x0000000000000000      0x17c build/f7-firmware-C/.extapps/DND_Dice_app/dice_app.o
+
+.debug_macro    0x0000000000000000       0xe0
+ .debug_macro   0x0000000000000000       0xe0 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o
+
+.debug_macro    0x0000000000000000       0x51
+ .debug_macro   0x0000000000000000       0x51 build/f7-firmware-C/.extapps/DND_Dice_app/DND_Dice_app_icons.o

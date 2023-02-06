@@ -1,0 +1,2498 @@
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .debug_macro   0x0000000000000000      0x174 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .debug_macro   0x0000000000000000       0xe0 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .debug_macro   0x0000000000000000       0x51 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000      0x174 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0xe0 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x51 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x64 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x10e build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x8d build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x89a build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x1d2 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x259 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x24d build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x904 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0xaa build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x19b build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x16f build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0xd6 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x255 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x6d build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0xc0 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0xd1 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x3a build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x1c2 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x1ce build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0xff build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0xe2 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x5f6 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x1ba build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x586 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x9b0 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000      0x1de build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x11 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/u2f/u2f.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x174 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0xe0 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x51 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x64 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x89a build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x1d2 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x259 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x24d build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x904 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0xaa build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x19b build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x16f build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0xd6 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x255 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x6d build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0xc0 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0xd1 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x3a build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x1c2 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x1ce build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0xff build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0xe2 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x5f6 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x1ba build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x586 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x9b0 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000      0x1de build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x11 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x10e build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x8d build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x89a build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x1d2 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x259 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x24d build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x904 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0xaa build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x19b build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x16f build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0xd6 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x255 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x6d build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0xc0 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0xd1 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x3a build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x1c2 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x1ce build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0xff build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0xe2 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x5f6 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x1ba build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x586 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x9b0 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000      0x1de build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x11 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x10e build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x8d build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x89a build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x1d2 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x259 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x24d build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x904 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0xaa build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x19b build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x16f build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0xd6 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x255 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x6d build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0xc0 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0xd1 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x3a build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x1c2 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x1ce build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0xff build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0xe2 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x5f6 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x1ba build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x586 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x9b0 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000      0x1de build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x11 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+ .debug_macro   0x0000000000000000       0xe0 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+ .debug_macro   0x0000000000000000       0x51 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+LOAD build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+LOAD build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+LOAD build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+LOAD build/f7-firmware-C/.extapps/u2f/u2f.o
+LOAD build/f7-firmware-C/.extapps/u2f/u2f_app.o
+LOAD build/f7-firmware-C/.extapps/u2f/u2f_data.o
+LOAD build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+LOAD build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+LOAD build/f7-firmware-C/lib\libassets.a
+
+.text           0x0000000000000000     0x1980
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text.u2f_scene_error_event_callback
+                0x0000000000000000       0x14 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .text.u2f_scene_error_on_enter
+                0x0000000000000014       0xb4 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+                0x0000000000000014                u2f_scene_error_on_enter
+ .text.u2f_scene_error_on_event
+                0x00000000000000c8       0x2c build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+                0x00000000000000c8                u2f_scene_error_on_event
+ .text.u2f_scene_error_on_exit
+                0x00000000000000f4        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+                0x00000000000000f4                u2f_scene_error_on_exit
+ .text.u2f_scene_main_ok_callback
+                0x0000000000000100       0x10 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .text.u2f_scene_main_timer_callback
+                0x0000000000000110        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .text.u2f_scene_main_event_callback
+                0x000000000000011c       0x44 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .text.u2f_scene_main_on_event
+                0x0000000000000160      0x13c build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+                0x0000000000000160                u2f_scene_main_on_event
+ .text.u2f_scene_main_on_enter
+                0x000000000000029c       0x88 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+                0x000000000000029c                u2f_scene_main_on_enter
+ .text.u2f_scene_main_on_exit
+                0x0000000000000324       0x48 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+                0x0000000000000324                u2f_scene_main_on_exit
+ .text.u2f_view_draw_callback
+                0x000000000000036c       0xec build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .text.u2f_view_input_callback
+                0x0000000000000458       0x20 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .text.u2f_view_alloc
+                0x0000000000000478       0x54 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+                0x0000000000000478                u2f_view_alloc
+ .text.u2f_view_free
+                0x00000000000004cc       0x1c build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+                0x00000000000004cc                u2f_view_free
+ .text.u2f_view_get_view
+                0x00000000000004e8        0x4 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+                0x00000000000004e8                u2f_view_get_view
+ .text.u2f_view_set_ok_callback
+                0x00000000000004ec       0x28 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+                0x00000000000004ec                u2f_view_set_ok_callback
+ .text.u2f_view_set_state
+                0x0000000000000514       0x24 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+                0x0000000000000514                u2f_view_set_state
+ .text.u2f_uecc_random
+                0x0000000000000538       0x10 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .text.u2f_der_encode_int.constprop.0
+                0x0000000000000548       0x40 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .text.u2f_der_encode_signature
+                0x0000000000000588       0x2c build/f7-firmware-C/.extapps/u2f/u2f.o
+ .text.u2f_register
+                0x00000000000005b4      0x18c build/f7-firmware-C/.extapps/u2f/u2f.o
+ .text.u2f_authenticate
+                0x0000000000000740      0x1ac build/f7-firmware-C/.extapps/u2f/u2f.o
+ .text.u2f_alloc
+                0x00000000000008ec        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+                0x00000000000008ec                u2f_alloc
+ .text.u2f_free
+                0x00000000000008f8        0x8 build/f7-firmware-C/.extapps/u2f/u2f.o
+                0x00000000000008f8                u2f_free
+ .text.u2f_init
+                0x0000000000000900       0xd0 build/f7-firmware-C/.extapps/u2f/u2f.o
+                0x0000000000000900                u2f_init
+ .text.u2f_set_event_callback
+                0x00000000000009d0        0x6 build/f7-firmware-C/.extapps/u2f/u2f.o
+                0x00000000000009d0                u2f_set_event_callback
+ .text.u2f_confirm_user_present
+                0x00000000000009d6        0x8 build/f7-firmware-C/.extapps/u2f/u2f.o
+                0x00000000000009d6                u2f_confirm_user_present
+ *fill*         0x00000000000009de        0x2 
+ .text.u2f_msg_parse
+                0x00000000000009e0       0x5c build/f7-firmware-C/.extapps/u2f/u2f.o
+                0x00000000000009e0                u2f_msg_parse
+ .text.u2f_wink
+                0x0000000000000a3c        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+                0x0000000000000a3c                u2f_wink
+ .text.u2f_set_state
+                0x0000000000000a48       0x22 build/f7-firmware-C/.extapps/u2f/u2f.o
+                0x0000000000000a48                u2f_set_state
+ *fill*         0x0000000000000a6a        0x2 
+ .text.u2f_app_back_event_callback
+                0x0000000000000a6c        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .text.u2f_app_custom_event_callback
+                0x0000000000000a78        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .text.u2f_app_tick_event_callback
+                0x0000000000000a84        0xc build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .text.u2f_app_alloc
+                0x0000000000000a90      0x114 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+                0x0000000000000a90                u2f_app_alloc
+ .text.u2f_app_free
+                0x0000000000000ba4       0x64 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+                0x0000000000000ba4                u2f_app_free
+ .text.u2f_app  0x0000000000000c08       0x24 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+                0x0000000000000c08                u2f_app
+ .text.u2f_data_check
+                0x0000000000000c2c       0x9c build/f7-firmware-C/.extapps/u2f/u2f_data.o
+                0x0000000000000c2c                u2f_data_check
+ .text.u2f_data_cert_check
+                0x0000000000000cc8       0xac build/f7-firmware-C/.extapps/u2f/u2f_data.o
+                0x0000000000000cc8                u2f_data_cert_check
+ .text.u2f_data_cert_load
+                0x0000000000000d74       0x78 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+                0x0000000000000d74                u2f_data_cert_load
+ .text.u2f_data_cert_key_load
+                0x0000000000000dec      0x284 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+                0x0000000000000dec                u2f_data_cert_key_load
+ .text.u2f_data_key_load
+                0x0000000000001070      0x154 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+                0x0000000000001070                u2f_data_key_load
+ .text.u2f_data_key_generate
+                0x00000000000011c4      0x104 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+                0x00000000000011c4                u2f_data_key_generate
+ .text.u2f_data_cnt_write
+                0x00000000000012c8       0xf4 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+                0x00000000000012c8                u2f_data_cnt_write
+ .text.u2f_data_cnt_read
+                0x00000000000013bc      0x1b0 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+                0x00000000000013bc                u2f_data_cnt_read
+ .text.u2f_hid_lock_timeout_callback
+                0x000000000000156c       0x1c build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .text.u2f_hid_send_response
+                0x0000000000001588       0xac build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .text.u2f_hid_event_callback
+                0x0000000000001634       0x3c build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .text.u2f_hid_worker
+                0x0000000000001670      0x298 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .text.u2f_hid_start
+                0x0000000000001908       0x3c build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+                0x0000000000001908                u2f_hid_start
+ .text.u2f_hid_stop
+                0x0000000000001944       0x3c build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+                0x0000000000001944                u2f_hid_stop
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x0000000000001980      0x983
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.u2f_scene_handlers
+                0x0000000000001980       0x10 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+                0x0000000000001980                u2f_scene_handlers
+ .rodata.u2f_scene_on_enter_handlers
+                0x0000000000001990        0x8 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+                0x0000000000001990                u2f_scene_on_enter_handlers
+ .rodata.u2f_scene_on_event_handlers
+                0x0000000000001998        0x8 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+                0x0000000000001998                u2f_scene_on_event_handlers
+ .rodata.u2f_scene_on_exit_handlers
+                0x00000000000019a0        0x8 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+                0x00000000000019a0                u2f_scene_on_exit_handlers
+ .rodata.u2f_scene_error_on_enter.str1.1
+                0x00000000000019a8       0x9a build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .rodata.u2f_scene_main_on_event.str1.1
+                0x0000000000001a42        0x8 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .rodata.u2f_view_draw_callback.str1.1
+                0x0000000000001a4a       0x80 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .rodata.u2f_register.str1.1
+                0x0000000000001aca        0x7 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .rodata.u2f_authenticate.str1.1
+                0x0000000000001ad1       0x22 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .rodata.u2f_init.str1.1
+                0x0000000000001af3       0xa3 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .rodata.ver_str
+                0x0000000000001b96        0x7 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .rodata.u2f_app_alloc.str1.1
+                0x0000000000001b9d       0x11 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .rodata.u2f_data_check.str1.1
+                0x0000000000001bae       0x60 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .rodata.u2f_data_cert_check.str1.1
+                0x0000000000001c0e       0x36 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .rodata.u2f_data_cert_key_load.str1.1
+                0x0000000000001c44       0xfa build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .rodata.u2f_data_key_load.str1.1
+                0x0000000000001d3e       0x1c build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .rodata.u2f_data_cnt_write.str1.1
+                0x0000000000001d5a       0x19 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .rodata.u2f_data_cnt_read.str1.1
+                0x0000000000001d73       0x38 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .rodata.u2f_hid_worker.str1.1
+                0x0000000000001dab       0x57 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .rodata.u2f_hid_start.str1.1
+                0x0000000000001e02        0xd build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ *fill*         0x0000000000001e0f        0x1 
+ .rodata.I_ActiveConnection_50x64
+                0x0000000000001e10        0x8 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+                0x0000000000001e10                I_ActiveConnection_50x64
+ .rodata.I_Auth_62x31
+                0x0000000000001e18        0x8 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+                0x0000000000001e18                I_Auth_62x31
+ .rodata.I_Connect_me_62x31
+                0x0000000000001e20        0x8 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+                0x0000000000001e20                I_Connect_me_62x31
+ .rodata.I_Connected_62x31
+                0x0000000000001e28        0x8 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+                0x0000000000001e28                I_Connected_62x31
+ .rodata.I_Drive_112x35
+                0x0000000000001e30        0x8 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+                0x0000000000001e30                I_Drive_112x35
+ .rodata.I_Error_62x31
+                0x0000000000001e38        0x8 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+                0x0000000000001e38                I_Error_62x31
+ .rodata.I_SDQuestion_35x43
+                0x0000000000001e40        0x8 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+                0x0000000000001e40                I_SDQuestion_35x43
+ .rodata._I_ActiveConnection_50x64
+                0x0000000000001e48        0x4 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+                0x0000000000001e48                _I_ActiveConnection_50x64
+ .rodata._I_ActiveConnection_50x64_0
+                0x0000000000001e4c       0xf8 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+                0x0000000000001e4c                _I_ActiveConnection_50x64_0
+ .rodata._I_Auth_62x31
+                0x0000000000001f44        0x4 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+                0x0000000000001f44                _I_Auth_62x31
+ .rodata._I_Auth_62x31_0
+                0x0000000000001f48       0xb3 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+                0x0000000000001f48                _I_Auth_62x31_0
+ *fill*         0x0000000000001ffb        0x1 
+ .rodata._I_Connect_me_62x31
+                0x0000000000001ffc        0x4 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+                0x0000000000001ffc                _I_Connect_me_62x31
+ .rodata._I_Connect_me_62x31_0
+                0x0000000000002000       0xbb build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+                0x0000000000002000                _I_Connect_me_62x31_0
+ *fill*         0x00000000000020bb        0x1 
+ .rodata._I_Connected_62x31
+                0x00000000000020bc        0x4 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+                0x00000000000020bc                _I_Connected_62x31
+ .rodata._I_Connected_62x31_0
+                0x00000000000020c0       0xae build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+                0x00000000000020c0                _I_Connected_62x31_0
+ *fill*         0x000000000000216e        0x2 
+ .rodata._I_Drive_112x35
+                0x0000000000002170        0x4 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+                0x0000000000002170                _I_Drive_112x35
+ .rodata._I_Drive_112x35_0
+                0x0000000000002174       0x76 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+                0x0000000000002174                _I_Drive_112x35_0
+ *fill*         0x00000000000021ea        0x2 
+ .rodata._I_Error_62x31
+                0x00000000000021ec        0x4 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+                0x00000000000021ec                _I_Error_62x31
+ .rodata._I_Error_62x31_0
+                0x00000000000021f0       0xa2 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+                0x00000000000021f0                _I_Error_62x31_0
+ *fill*         0x0000000000002292        0x2 
+ .rodata._I_SDQuestion_35x43
+                0x0000000000002294        0x4 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+                0x0000000000002294                _I_SDQuestion_35x43
+ .rodata._I_SDQuestion_35x43_0
+                0x0000000000002298       0x6b build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+                0x0000000000002298                _I_SDQuestion_35x43_0
+
+.data
+ *(.data)
+ *(.data1)
+ *(.data.*)
+
+.bss
+ *(.bss)
+ *(.bss*)
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.ARM.attributes
+                0x0000000000002303       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000002303       0x34 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+ .ARM.attributes
+                0x0000000000002337       0x34 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .ARM.attributes
+                0x000000000000236b       0x34 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .ARM.attributes
+                0x000000000000239f       0x34 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .ARM.attributes
+                0x00000000000023d3       0x34 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .ARM.attributes
+                0x0000000000002407       0x34 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .ARM.attributes
+                0x000000000000243b       0x34 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .ARM.attributes
+                0x000000000000246f       0x34 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .ARM.attributes
+                0x00000000000024a3       0x34 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+ *(.ARM.attributes.*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/u2f_d.elf elf32-littlearm)
+LOAD linker stubs
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/u2f/u2f_data.o
+
+.debug_info     0x0000000000000000     0x7306
+ .debug_info    0x0000000000000000      0x256 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+ .debug_info    0x0000000000000256      0x74d build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .debug_info    0x00000000000009a3      0xe9b build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_info    0x000000000000183e      0x854 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_info    0x0000000000002092     0x15ad build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_info    0x000000000000363f      0xb1d build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_info    0x000000000000415c     0x19a4 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_info    0x0000000000005b00     0x14b6 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_info    0x0000000000006fb6      0x350 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+
+.debug_abbrev   0x0000000000000000     0x16ae
+ .debug_abbrev  0x0000000000000000       0xed build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+ .debug_abbrev  0x00000000000000ed      0x25f build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .debug_abbrev  0x000000000000034c      0x2ed build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_abbrev  0x0000000000000639      0x28e build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_abbrev  0x00000000000008c7      0x3f2 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_abbrev  0x0000000000000cb9      0x28c build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_abbrev  0x0000000000000f45      0x2c4 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_abbrev  0x0000000000001209      0x3f4 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_abbrev  0x00000000000015fd       0xb1 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+
+.debug_aranges  0x0000000000000000      0x268
+ .debug_aranges
+                0x0000000000000000       0x18 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+ .debug_aranges
+                0x0000000000000018       0x38 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .debug_aranges
+                0x0000000000000050       0x48 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_aranges
+                0x0000000000000098       0x50 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_aranges
+                0x00000000000000e8       0x80 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_aranges
+                0x0000000000000168       0x48 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_aranges
+                0x00000000000001b0       0x58 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_aranges
+                0x0000000000000208       0x48 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_aranges
+                0x0000000000000250       0x18 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+
+.debug_macro    0x0000000000000000     0x2f67
+ .debug_macro   0x0000000000000000       0xd8 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+ .debug_macro   0x00000000000000d8      0x4ef build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .debug_macro   0x00000000000005c7      0x78b build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_macro   0x0000000000000d52      0x469 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_macro   0x00000000000011bb      0x70f build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_macro   0x00000000000018ca      0x776 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_macro   0x0000000000002040      0x733 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_macro   0x0000000000002773      0x785 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_macro   0x0000000000002ef8       0x6f build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+
+.debug_macro    0x0000000000000000      0xaba
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+
+.debug_macro    0x0000000000000000      0x174
+ .debug_macro   0x0000000000000000      0x174 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+
+.debug_macro    0x0000000000000000       0xe0
+ .debug_macro   0x0000000000000000       0xe0 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+
+.debug_macro    0x0000000000000000       0x51
+ .debug_macro   0x0000000000000000       0x51 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+
+.debug_macro    0x0000000000000000      0x103
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+
+.debug_macro    0x0000000000000000       0x6a
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+
+.debug_macro    0x0000000000000000      0x1df
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+
+.debug_line     0x0000000000000000     0x8178
+ .debug_line    0x0000000000000000      0x280 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+ .debug_line    0x0000000000000280      0xc14 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .debug_line    0x0000000000000e94     0x143a build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_line    0x00000000000022ce      0xaca build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_line    0x0000000000002d98     0x1465 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_line    0x00000000000041fd     0x129a build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_line    0x0000000000005497     0x1638 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_line    0x0000000000006acf     0x1451 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_line    0x0000000000007f20      0x258 build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+
+.debug_str      0x0000000000000000   0x6562ef
+ .debug_str     0x0000000000000000     0x44c7 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene.o
+ .debug_str     0x00000000000044c7    0xd455a build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .debug_str     0x00000000000d8a21    0xee02a build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_str     0x00000000001c6a4b    0xd4342 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_str     0x000000000029ad8d    0xee96e build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_str     0x00000000003896fb    0xed7d5 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_str     0x0000000000476ed0    0xed7b2 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_str     0x0000000000564682    0xedcee build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+ .debug_str     0x0000000000652370     0x3f7f build/f7-firmware-C/.extapps/u2f/u2f_icons.o
+
+.debug_loc      0x0000000000000000     0x2397
+ .debug_loc     0x0000000000000000      0x2f8 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .debug_loc     0x00000000000002f8      0x6d9 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_loc     0x00000000000009d1      0x3b0 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_loc     0x0000000000000d81      0x6ff build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_loc     0x0000000000001480      0x1ab build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_loc     0x000000000000162b      0x792 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_loc     0x0000000000001dbd      0x5da build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+
+.debug_ranges   0x0000000000000000      0x328
+ .debug_ranges  0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .debug_ranges  0x0000000000000028       0x50 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_ranges  0x0000000000000078       0x90 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_ranges  0x0000000000000108       0x90 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_ranges  0x0000000000000198       0x38 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_ranges  0x00000000000001d0       0x98 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_ranges  0x0000000000000268       0xc0 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+
+.debug_macro    0x0000000000000000       0x1e
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x64
+ .debug_macro   0x0000000000000000       0x64 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x35
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x35
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x43
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x58
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000      0x182
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000      0x341
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x29
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x70
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000      0x189
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000      0x15a
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0xdd
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x1f
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x12
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000      0x409
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0xc3
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000      0x120
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0xfb
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x52
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x52
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0xd5
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x3d
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000      0x176
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x4c
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x70
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x19
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x7c
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x17
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000      0x118
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000      0x11f
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000     0x2bf8
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0xb2
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x2e
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000     0x1011
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000      0x11f
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000    0x12ae9
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x6c
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000      0x147
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000      0x557
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000      0x175
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x91
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000      0x24c
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_macro    0x0000000000000000       0x17
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+
+.debug_frame    0x0000000000000000      0x60c
+ .debug_frame   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_error.o
+ .debug_frame   0x000000000000007c       0xa0 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+ .debug_frame   0x000000000000011c       0xd8 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+ .debug_frame   0x00000000000001f4      0x158 build/f7-firmware-C/.extapps/u2f/u2f.o
+ .debug_frame   0x000000000000034c       0x98 build/f7-firmware-C/.extapps/u2f/u2f_app.o
+ .debug_frame   0x00000000000003e4      0x144 build/f7-firmware-C/.extapps/u2f/u2f_data.o
+ .debug_frame   0x0000000000000528       0xe4 build/f7-firmware-C/.extapps/u2f/u2f_hid.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000      0x89a
+ .debug_macro   0x0000000000000000      0x89a build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000      0x1d2
+ .debug_macro   0x0000000000000000      0x1d2 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000      0x259
+ .debug_macro   0x0000000000000000      0x259 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000      0x24d
+ .debug_macro   0x0000000000000000      0x24d build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000      0x904
+ .debug_macro   0x0000000000000000      0x904 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000       0xaa
+ .debug_macro   0x0000000000000000       0xaa build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000      0x19b
+ .debug_macro   0x0000000000000000      0x19b build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000      0x16f
+ .debug_macro   0x0000000000000000      0x16f build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000       0xd6
+ .debug_macro   0x0000000000000000       0xd6 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000      0x255
+ .debug_macro   0x0000000000000000      0x255 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000       0x6d
+ .debug_macro   0x0000000000000000       0x6d build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000       0xc0
+ .debug_macro   0x0000000000000000       0xc0 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000       0xd1
+ .debug_macro   0x0000000000000000       0xd1 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000       0x3a
+ .debug_macro   0x0000000000000000       0x3a build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000      0x1c2
+ .debug_macro   0x0000000000000000      0x1c2 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000      0x1ce
+ .debug_macro   0x0000000000000000      0x1ce build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000       0x5e
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000       0xff
+ .debug_macro   0x0000000000000000       0xff build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000       0xe2
+ .debug_macro   0x0000000000000000       0xe2 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000      0x5f6
+ .debug_macro   0x0000000000000000      0x5f6 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000       0x12
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000      0x1ba
+ .debug_macro   0x0000000000000000      0x1ba build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000      0x586
+ .debug_macro   0x0000000000000000      0x586 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000      0x9b0
+ .debug_macro   0x0000000000000000      0x9b0 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000      0x1de
+ .debug_macro   0x0000000000000000      0x1de build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000       0x11
+ .debug_macro   0x0000000000000000       0x11 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/scenes/u2f_scene_main.o
+
+.debug_macro    0x0000000000000000       0x5e
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+
+.debug_macro    0x0000000000000000       0xe6
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+
+.debug_macro    0x0000000000000000      0x10e
+ .debug_macro   0x0000000000000000      0x10e build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+
+.debug_macro    0x0000000000000000       0x8d
+ .debug_macro   0x0000000000000000       0x8d build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+
+.debug_macro    0x0000000000000000       0x57
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/u2f/views/u2f_view.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/u2f/u2f.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/u2f/u2f.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f.o
+
+.debug_macro    0x0000000000000000      0x4cc
+ .debug_macro   0x0000000000000000      0x4cc build/f7-firmware-C/.extapps/u2f/u2f.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/u2f/u2f.o
+
+.debug_macro    0x0000000000000000       0x70
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/u2f/u2f.o
+
+.debug_macro    0x0000000000000000       0x2e
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/u2f/u2f_data.o

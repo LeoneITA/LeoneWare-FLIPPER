@@ -1,0 +1,1052 @@
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000      0x10e build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x8d build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .rodata.storage_DolphinBackup_mount_callback.str1.1
+                0x0000000000000000       0x1c build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .text.storage_DolphinBackup_mount_callback
+                0x0000000000000000       0x34 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .text.storage_DolphinBackup_start
+                0x0000000000000000       0x38 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000      0x10e build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x8d build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+LOAD build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+LOAD build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+LOAD build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+
+.text           0x0000000000000000      0x4a0
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text.storage_DolphinBackup_scene_confirm_widget_callback
+                0x0000000000000000       0x1c build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .text.storage_DolphinBackup_scene_confirm_on_enter
+                0x000000000000001c       0x80 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+                0x000000000000001c                storage_DolphinBackup_scene_confirm_on_enter
+ .text.storage_DolphinBackup_scene_confirm_on_event
+                0x000000000000009c       0x3c build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+                0x000000000000009c                storage_DolphinBackup_scene_confirm_on_event
+ .text.storage_DolphinBackup_scene_confirm_on_exit
+                0x00000000000000d8        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+                0x00000000000000d8                storage_DolphinBackup_scene_confirm_on_exit
+ .text.storage_DolphinBackup_scene_progress_on_enter
+                0x00000000000000e4       0x48 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+                0x00000000000000e4                storage_DolphinBackup_scene_progress_on_enter
+ .text.storage_DolphinBackup_scene_progress_on_event
+                0x000000000000012c       0x28 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+                0x000000000000012c                storage_DolphinBackup_scene_progress_on_event
+ .text.storage_DolphinBackup_scene_progress_on_exit
+                0x0000000000000154        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+                0x0000000000000154                storage_DolphinBackup_scene_progress_on_exit
+ .text.storage_DolphinBackup_back_event_callback
+                0x0000000000000160        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .text.storage_DolphinBackup_custom_event_callback
+                0x000000000000016c        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .text.storage_DolphinBackup_unmount_callback
+                0x0000000000000178       0x18 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .text.storage_DolphinBackup_perform
+                0x0000000000000190      0x128 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+                0x0000000000000190                storage_DolphinBackup_perform
+ .text.storage_DolphinBackup_app
+                0x00000000000002b8      0x1e8 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+                0x00000000000002b8                storage_DolphinBackup_app
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x00000000000004a0      0x1a8
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.storage_DolphinBackup_on_enter_handlers
+                0x00000000000004a0        0x8 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+                0x00000000000004a0                storage_DolphinBackup_on_enter_handlers
+ .rodata.storage_DolphinBackup_on_event_handlers
+                0x00000000000004a8        0x8 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+                0x00000000000004a8                storage_DolphinBackup_on_event_handlers
+ .rodata.storage_DolphinBackup_on_exit_handlers
+                0x00000000000004b0        0x8 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+                0x00000000000004b0                storage_DolphinBackup_on_exit_handlers
+ .rodata.storage_DolphinBackup_scene_handlers
+                0x00000000000004b8       0x10 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+                0x00000000000004b8                storage_DolphinBackup_scene_handlers
+ .rodata.storage_DolphinBackup_scene_confirm_on_enter.str1.1
+                0x00000000000004c8       0x4b build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .rodata.storage_DolphinBackup_scene_progress_on_enter.str1.1
+                0x0000000000000513        0xa build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .rodata.storage_DolphinBackup_perform.str1.1
+                0x000000000000051d       0x43 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .rodata.storage_DolphinBackup_app.str1.1
+                0x0000000000000560       0x2f build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ .rodata.str1.1
+                0x000000000000058f       0x88 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ *fill*         0x0000000000000617        0x1 
+ .rodata.app_dirsDolphinBackup
+                0x0000000000000618       0x30 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+
+.data
+ *(.data)
+ *(.data1)
+ *(.data.*)
+
+.bss
+ *(.bss)
+ *(.bss*)
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.ARM.attributes
+                0x0000000000000648       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000648       0x34 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+ .ARM.attributes
+                0x000000000000067c       0x34 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .ARM.attributes
+                0x00000000000006b0       0x34 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .ARM.attributes
+                0x00000000000006e4       0x34 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+ *(.ARM.attributes.*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/DolphinBackup_d.elf elf32-littlearm)
+LOAD linker stubs
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+
+.debug_info     0x0000000000000000     0x2071
+ .debug_info    0x0000000000000000      0x256 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+ .debug_info    0x0000000000000256      0x632 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .debug_info    0x0000000000000888      0x432 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_info    0x0000000000000cba     0x13b7 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+
+.debug_abbrev   0x0000000000000000      0x7ff
+ .debug_abbrev  0x0000000000000000       0xed build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+ .debug_abbrev  0x00000000000000ed      0x1fd build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .debug_abbrev  0x00000000000002ea      0x183 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_abbrev  0x000000000000046d      0x392 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+
+.debug_aranges  0x0000000000000000       0xd0
+ .debug_aranges
+                0x0000000000000000       0x18 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+ .debug_aranges
+                0x0000000000000018       0x38 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .debug_aranges
+                0x0000000000000050       0x30 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_aranges
+                0x0000000000000080       0x50 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+
+.debug_macro    0x0000000000000000      0xfa1
+ .debug_macro   0x0000000000000000       0xd8 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+ .debug_macro   0x00000000000000d8      0x4de build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .debug_macro   0x00000000000005b6      0x4de build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_macro   0x0000000000000a94      0x50d build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+
+.debug_macro    0x0000000000000000      0xaba
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+
+.debug_macro    0x0000000000000000      0x174
+ .debug_macro   0x0000000000000000      0x174 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+
+.debug_macro    0x0000000000000000       0xe0
+ .debug_macro   0x0000000000000000       0xe0 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+
+.debug_macro    0x0000000000000000       0x51
+ .debug_macro   0x0000000000000000       0x51 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+
+.debug_macro    0x0000000000000000      0x103
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+
+.debug_macro    0x0000000000000000       0x6a
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+
+.debug_macro    0x0000000000000000      0x1df
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+
+.debug_line     0x0000000000000000     0x28a6
+ .debug_line    0x0000000000000000      0x2c3 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+ .debug_line    0x00000000000002c3      0xc1a build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .debug_line    0x0000000000000edd      0xbb9 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_line    0x0000000000001a96      0xe10 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+
+.debug_str      0x0000000000000000   0x285569
+ .debug_str     0x0000000000000000     0x4557 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene.o
+ .debug_str     0x0000000000004557    0xd45e3 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .debug_str     0x00000000000d8b3a    0xd4472 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_str     0x00000000001acfac    0xd85bd build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+
+.debug_loc      0x0000000000000000      0x995
+ .debug_loc     0x0000000000000000      0x2d5 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .debug_loc     0x00000000000002d5      0x18d build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_loc     0x0000000000000462      0x533 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+
+.debug_ranges   0x0000000000000000      0x110
+ .debug_ranges  0x0000000000000000       0x28 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .debug_ranges  0x0000000000000028       0x20 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_ranges  0x0000000000000048       0xc8 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+
+.debug_macro    0x0000000000000000       0x1e
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x5e
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0xe6
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x35
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000      0x10e
+ .debug_macro   0x0000000000000000      0x10e build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x8d
+ .debug_macro   0x0000000000000000       0x8d build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x43
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x57
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x58
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000      0x182
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000      0x341
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x29
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x70
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000      0x189
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000      0x15a
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0xdd
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x1f
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x12
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000      0x409
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0xc3
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000      0x120
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0xfb
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x35
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x52
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x52
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0xd5
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x3d
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000      0x176
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x4c
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x70
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x19
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x7c
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x17
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000      0x118
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000      0x11f
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000     0x2bf8
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0xb2
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x2e
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000     0x1011
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000      0x11f
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000    0x12ae9
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x6c
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000      0x147
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000      0x557
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000      0x175
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x91
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000      0x24c
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x17
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_macro    0x0000000000000000       0x2e
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+
+.debug_frame    0x0000000000000000      0x1bc
+ .debug_frame   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_confirm.o
+ .debug_frame   0x000000000000007c       0x68 build/f7-firmware-C/.extapps/DolphinBackup/scenes/storage_DolphinBackup_scene_progress.o
+ .debug_frame   0x00000000000000e4       0xd8 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o
+
+.debug_macro    0x0000000000000000      0x152
+ .debug_macro   0x0000000000000000      0x152 build/f7-firmware-C/.extapps/DolphinBackup/storage_DolphinBackup.o

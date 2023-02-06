@@ -1,0 +1,1317 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_pow10.o)
+                              build/f7-firmware-C/.extapps/Calculator2/calculator.o (pow10)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_pow.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_pow10.o) (pow)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_pow.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_pow.o) (__ieee754_pow)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_sqrt.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_pow.o) (__ieee754_sqrt)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-math_err.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_pow.o) (__math_uflow)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_fabs.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_pow.o) (fabs)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_finite.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_pow.o) (finite)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_scalbn.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_pow.o) (scalbn)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+                              build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o (__aeabi_dmul)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_pow.o) (__aeabi_dsub)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+                              build/f7-firmware-C/.extapps/Calculator2/calculator.o (__aeabi_ddiv)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_pow.o) (__aeabi_dcmpeq)
+d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+                              d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_pow.o) (__aeabi_dcmpun)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/Calculator2/calculator.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x0000000000000000      0x19b build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .rodata.CalculatorDisplayButtonCalculate
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .rodata.CalculatorDisplayButtonClear
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .rodata.CalculatorDisplayButtonDecimal
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .rodata.CalculatorDisplayButtonFunctionAdd
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .rodata.CalculatorDisplayButtonFunctionDivide
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .rodata.CalculatorDisplayButtonFunctionMinus
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .rodata.CalculatorDisplayButtonFunctionMultiply
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .rodata.CalculatorDisplayButtonFunctionRemainder
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .rodata.CalculatorDisplayButtonFunctionSquare
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .rodata.CalculatorDisplayButtonNegative
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .rodata.CalculatorDisplayButtonNumberEight
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .rodata.CalculatorDisplayButtonNumberFive
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .rodata.CalculatorDisplayButtonNumberFour
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .rodata.CalculatorDisplayButtonNumberNine
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .rodata.CalculatorDisplayButtonNumberOne
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .rodata.CalculatorDisplayButtonNumberSeven
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .rodata.CalculatorDisplayButtonNumberSix
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .rodata.CalculatorDisplayButtonNumberThree
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .rodata.CalculatorDisplayButtonNumberTwo
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .rodata.CalculatorDisplayButtonNumberZero
+                0x0000000000000000        0x4 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000      0x174 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000000      0x19b build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .text          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .data          0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .bss           0x0000000000000000        0x0 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .text.subtract
+                0x0000000000000000       0x12 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .text.multiply
+                0x0000000000000000       0x18 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .rodata.CalculatorFunctionMultiply
+                0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .rodata.CalculatorFunctionSubtract
+                0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .debug_macro   0x0000000000000000      0x174 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .debug_macro   0x0000000000000000      0x19b build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .comment       0x0000000000000000       0x4a build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .text          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_pow10.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_pow10.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_pow10.o)
+ .text          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_pow.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_pow.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_pow.o)
+ .text          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_pow.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_pow.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_pow.o)
+ .text          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_sqrt.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_sqrt.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_sqrt.o)
+ .text          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-math_err.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-math_err.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-math_err.o)
+ .text.__math_may_uflow
+                0x0000000000000000       0x14 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-math_err.o)
+ .text.__math_divzero
+                0x0000000000000000       0x38 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-math_err.o)
+ .text.__math_invalid
+                0x0000000000000000       0x50 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-math_err.o)
+ .text.__math_check_uflow
+                0x0000000000000000       0x30 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-math_err.o)
+ .text.__math_check_oflow
+                0x0000000000000000       0x4c d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-math_err.o)
+ .text          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_fabs.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_fabs.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_fabs.o)
+ .text          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_finite.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_finite.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_finite.o)
+ .text          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_scalbn.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_scalbn.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_scalbn.o)
+ .text          0x0000000000000000      0x254 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .debug_frame   0x0000000000000000       0x30 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldf3.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .data          0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+ .bss           0x0000000000000000        0x0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD build/f7-firmware-C/.extapps/Calculator2/calculator.o
+LOAD build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+LOAD build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+LOAD build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+
+.text           0x0000000000000000     0x20bc
+ *(.text)
+ .text          0x0000000000000000      0x378 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                0x0000000000000000                __aeabi_drsub
+                0x0000000000000008                __aeabi_dsub
+                0x0000000000000008                __subdf3
+                0x000000000000000c                __aeabi_dadd
+                0x000000000000000c                __adddf3
+                0x0000000000000284                __floatunsidf
+                0x0000000000000284                __aeabi_ui2d
+                0x00000000000002a4                __floatsidf
+                0x00000000000002a4                __aeabi_i2d
+                0x00000000000002c8                __aeabi_f2d
+                0x00000000000002c8                __extendsfdf2
+                0x000000000000030c                __floatundidf
+                0x000000000000030c                __aeabi_ul2d
+                0x000000000000031c                __floatdidf
+                0x000000000000031c                __aeabi_l2d
+ .text          0x0000000000000378      0x424 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+                0x0000000000000378                __aeabi_dmul
+                0x0000000000000378                __muldf3
+                0x00000000000005cc                __divdf3
+                0x00000000000005cc                __aeabi_ddiv
+ .text          0x000000000000079c      0x110 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+                0x000000000000079c                __gtdf2
+                0x000000000000079c                __gedf2
+                0x00000000000007a4                __ltdf2
+                0x00000000000007a4                __ledf2
+                0x00000000000007ac                __nedf2
+                0x00000000000007ac                __eqdf2
+                0x00000000000007ac                __cmpdf2
+                0x0000000000000828                __aeabi_cdrcmple
+                0x0000000000000838                __aeabi_cdcmpeq
+                0x0000000000000838                __aeabi_cdcmple
+                0x0000000000000848                __aeabi_dcmpeq
+                0x000000000000085c                __aeabi_dcmplt
+                0x0000000000000870                __aeabi_dcmple
+                0x0000000000000884                __aeabi_dcmpge
+                0x0000000000000898                __aeabi_dcmpgt
+ .text          0x00000000000008ac       0x2c d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+                0x00000000000008ac                __unorddf2
+                0x00000000000008ac                __aeabi_dcmpun
+ *(.stub)
+ *(.text*)
+ .text.calculator_reset
+                0x00000000000008d8       0x1c build/f7-firmware-C/.extapps/Calculator2/calculator.o
+                0x00000000000008d8                calculator_reset
+ .text.calculator_add_calculator_calculation
+                0x00000000000008f4       0x68 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+                0x00000000000008f4                calculator_add_calculator_calculation
+ .text.calculator_calculation_alloc
+                0x000000000000095c       0x28 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+                0x000000000000095c                calculator_calculation_alloc
+ .text.calculator_alloc
+                0x0000000000000984       0x2c build/f7-firmware-C/.extapps/Calculator2/calculator.o
+                0x0000000000000984                calculator_alloc
+ .text.calculator_free
+                0x00000000000009b0       0x28 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+                0x00000000000009b0                calculator_free
+ .text.calculator_get_framed_number_as_double
+                0x00000000000009d8       0xfc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+                0x00000000000009d8                calculator_get_framed_number_as_double
+ .text.calculator_full_solve
+                0x0000000000000ad4       0x80 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+                0x0000000000000ad4                calculator_full_solve
+ .text.input_callback
+                0x0000000000000b54       0x14 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+                0x0000000000000b54                input_callback
+ .text.draw_buttons
+                0x0000000000000b68       0x9c build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+                0x0000000000000b68                draw_buttons
+ .text.draw_callback
+                0x0000000000000c04       0x88 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+                0x0000000000000c04                draw_callback
+ .text.calculator_app_alloc
+                0x0000000000000c8c       0x94 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+                0x0000000000000c8c                calculator_app_alloc
+ .text.calculator_app_free
+                0x0000000000000d20       0x60 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+                0x0000000000000d20                calculator_app_free
+ .text.calculator_main
+                0x0000000000000d80      0x1f8 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+                0x0000000000000d80                calculator_main
+ .text.empty_callback
+                0x0000000000000f78        0x2 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+                0x0000000000000f78                empty_callback
+ *fill*         0x0000000000000f7a        0x2 
+ .text.default_number_click_callback
+                0x0000000000000f7c       0x10 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+                0x0000000000000f7c                default_number_click_callback
+ .text.button_clear_click_callback
+                0x0000000000000f8c        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+                0x0000000000000f8c                button_clear_click_callback
+ .text.button_add_function_click_callback
+                0x0000000000000f98       0x38 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+                0x0000000000000f98                button_add_function_click_callback
+ .text.button_calculate_click_callback
+                0x0000000000000fd0       0x3c build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+                0x0000000000000fd0                button_calculate_click_callback
+ .text.button_function_click_callback
+                0x000000000000100c       0xa0 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+                0x000000000000100c                button_function_click_callback
+ .text.add      0x00000000000010ac        0x2 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+                0x00000000000010ac                add
+ *fill*         0x00000000000010ae        0x2 
+ .text.divide   0x00000000000010b0       0x18 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+                0x00000000000010b0                divide
+ .text.square   0x00000000000010c8       0x1c build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+                0x00000000000010c8                square
+ *fill*         0x00000000000010e4        0x4 
+ .text.pow10    0x00000000000010e8       0x18 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_pow10.o)
+                0x00000000000010e8                pow10
+ .text.pow      0x0000000000001100       0xf0 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_pow.o)
+                0x0000000000001100                pow
+ .text.__ieee754_pow
+                0x00000000000011f0      0xb74 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_pow.o)
+                0x00000000000011f0                __ieee754_pow
+ .text.__ieee754_sqrt
+                0x0000000000001d64      0x198 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_sqrt.o)
+                0x0000000000001d64                __ieee754_sqrt
+ .text.with_errno
+                0x0000000000001efc       0x18 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-math_err.o)
+ .text.xflow    0x0000000000001f14       0x2c d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-math_err.o)
+ .text.__math_uflow
+                0x0000000000001f40       0x14 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-math_err.o)
+                0x0000000000001f40                __math_uflow
+ .text.__math_oflow
+                0x0000000000001f54       0x14 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-math_err.o)
+                0x0000000000001f54                __math_oflow
+ .text.fabs     0x0000000000001f68       0x14 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_fabs.o)
+                0x0000000000001f68                fabs
+ .text.finite   0x0000000000001f7c       0x18 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_finite.o)
+                0x0000000000001f7c                finite
+ *fill*         0x0000000000001f94        0x4 
+ .text.scalbn   0x0000000000001f98      0x124 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_scalbn.o)
+                0x0000000000001f98                scalbn
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.fini)
+
+.rodata         0x00000000000020bc       0x98
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.calculator_get_framed_number_as_double.str1.1
+                0x00000000000020bc       0x16 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+ .rodata.draw_callback.str1.1
+                0x00000000000020d2       0x14 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .rodata.calculator_app_alloc.str1.1
+                0x00000000000020e6        0x4 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .rodata.calculator_main.str1.1
+                0x00000000000020ea        0xe build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .rodata.button_calculate_click_callback.str1.1
+                0x00000000000020f8        0x4 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .rodata.button_function_click_callback.str1.1
+                0x00000000000020fc        0x3 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .rodata.str1.1
+                0x00000000000020ff       0x26 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ *fill*         0x0000000000002125        0x3 
+ .rodata.NUMBER_OF_COLUMNS_BUTTONS
+                0x0000000000002128        0x4 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+                0x0000000000002128                NUMBER_OF_COLUMNS_BUTTONS
+ .rodata.NUMBER_OF_ROWS_BUTTONS
+                0x000000000000212c        0x4 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+                0x000000000000212c                NUMBER_OF_ROWS_BUTTONS
+ .rodata.CalculatorFunctionAdd
+                0x0000000000002130        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+                0x0000000000002130                CalculatorFunctionAdd
+ .rodata.CalculatorFunctionDivide
+                0x000000000000213c        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+                0x000000000000213c                CalculatorFunctionDivide
+ .rodata.CalculatorFunctionSquare
+                0x0000000000002148        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+                0x0000000000002148                CalculatorFunctionSquare
+
+.data           0x0000000000002154      0x1f4
+ *(.data)
+ *(.data1)
+ *(.data.*)
+ .data.__compound_literal.0
+                0x0000000000002154       0x14 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .data.__compound_literal.1
+                0x0000000000002168       0x14 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .data.__compound_literal.10
+                0x000000000000217c       0x14 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .data.__compound_literal.11
+                0x0000000000002190       0x14 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .data.__compound_literal.12
+                0x00000000000021a4       0x14 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .data.__compound_literal.13
+                0x00000000000021b8       0x14 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .data.__compound_literal.14
+                0x00000000000021cc       0x14 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .data.__compound_literal.15
+                0x00000000000021e0       0x14 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .data.__compound_literal.16
+                0x00000000000021f4       0x14 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .data.__compound_literal.17
+                0x0000000000002208       0x14 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .data.__compound_literal.18
+                0x000000000000221c       0x14 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .data.__compound_literal.19
+                0x0000000000002230       0x14 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .data.__compound_literal.2
+                0x0000000000002244       0x14 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .data.__compound_literal.3
+                0x0000000000002258       0x14 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .data.__compound_literal.4
+                0x000000000000226c       0x14 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .data.__compound_literal.5
+                0x0000000000002280       0x14 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .data.__compound_literal.6
+                0x0000000000002294       0x14 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .data.__compound_literal.7
+                0x00000000000022a8       0x14 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .data.__compound_literal.8
+                0x00000000000022bc       0x14 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .data.__compound_literal.9
+                0x00000000000022d0       0x14 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .data.calculator_display_button_grid
+                0x00000000000022e4       0x64 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+                0x00000000000022e4                calculator_display_button_grid
+
+.bss
+ *(.bss)
+ *(.bss*)
+ *(.sbss)
+ *(.sbss*)
+ *(COMMON)
+
+.ARM.attributes
+                0x0000000000002348       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000002348       0x34 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+ .ARM.attributes
+                0x000000000000237c       0x34 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .ARM.attributes
+                0x00000000000023b0       0x34 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .ARM.attributes
+                0x00000000000023e4       0x34 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .ARM.attributes
+                0x0000000000002418       0x34 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_pow10.o)
+ .ARM.attributes
+                0x000000000000244c       0x34 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_pow.o)
+ .ARM.attributes
+                0x0000000000002480       0x34 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_pow.o)
+ .ARM.attributes
+                0x00000000000024b4       0x34 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_sqrt.o)
+ .ARM.attributes
+                0x00000000000024e8       0x34 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-math_err.o)
+ .ARM.attributes
+                0x000000000000251c       0x34 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_fabs.o)
+ .ARM.attributes
+                0x0000000000002550       0x34 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_finite.o)
+ .ARM.attributes
+                0x0000000000002584       0x34 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_scalbn.o)
+ .ARM.attributes
+                0x00000000000025b8       0x1e d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000000000025d6       0x1e d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000000000025f4       0x1e d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x0000000000002612       0x1e d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+ *(.ARM.attributes.*)
+
+/DISCARD/
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+OUTPUT(build/f7-firmware-C/.extapps/Calculator2_d.elf elf32-littlearm)
+LOAD linker stubs
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+
+.group          0x0000000000000000        0xc
+ .group         0x0000000000000000        0xc build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+
+.debug_info     0x0000000000000000     0x2278
+ .debug_info    0x0000000000000000      0x84c build/f7-firmware-C/.extapps/Calculator2/calculator.o
+ .debug_info    0x000000000000084c      0xd5d build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_info    0x00000000000015a9      0x9f1 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_info    0x0000000000001f9a      0x2de build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+
+.debug_abbrev   0x0000000000000000      0x8fc
+ .debug_abbrev  0x0000000000000000      0x305 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+ .debug_abbrev  0x0000000000000305      0x28d build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_abbrev  0x0000000000000592      0x243 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_abbrev  0x00000000000007d5      0x127 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+
+.debug_loc      0x0000000000000000      0x8cc
+ .debug_loc     0x0000000000000000      0x336 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+ .debug_loc     0x0000000000000336      0x2f9 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_loc     0x000000000000062f      0x189 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_loc     0x00000000000007b8      0x114 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+
+.debug_aranges  0x0000000000000000      0x120
+ .debug_aranges
+                0x0000000000000000       0x50 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+ .debug_aranges
+                0x0000000000000050       0x48 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_aranges
+                0x0000000000000098       0x48 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_aranges
+                0x00000000000000e0       0x40 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+
+.debug_ranges   0x0000000000000000      0x198
+ .debug_ranges  0x0000000000000000       0x90 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+ .debug_ranges  0x0000000000000090       0xa0 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_ranges  0x0000000000000130       0x38 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_ranges  0x0000000000000168       0x30 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+
+.debug_macro    0x0000000000000000      0xe43
+ .debug_macro   0x0000000000000000      0x453 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+ .debug_macro   0x0000000000000453      0x491 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_macro   0x00000000000008e4      0x488 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_macro   0x0000000000000d6c       0xd7 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+
+.debug_macro    0x0000000000000000      0xaba
+ .debug_macro   0x0000000000000000      0xaba build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x5e
+ .debug_macro   0x0000000000000000       0x5e build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x1e
+ .debug_macro   0x0000000000000000       0x1e build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0xe6
+ .debug_macro   0x0000000000000000       0xe6 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x35
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000      0x174
+ .debug_macro   0x0000000000000000      0x174 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x43
+ .debug_macro   0x0000000000000000       0x43 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x57
+ .debug_macro   0x0000000000000000       0x57 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x34
+ .debug_macro   0x0000000000000000       0x34 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x58
+ .debug_macro   0x0000000000000000       0x58 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000      0x182
+ .debug_macro   0x0000000000000000      0x182 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000      0x341
+ .debug_macro   0x0000000000000000      0x341 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x35
+ .debug_macro   0x0000000000000000       0x35 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x19
+ .debug_macro   0x0000000000000000       0x19 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x29
+ .debug_macro   0x0000000000000000       0x29 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x70
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000      0x103
+ .debug_macro   0x0000000000000000      0x103 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x6a
+ .debug_macro   0x0000000000000000       0x6a build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000      0x1df
+ .debug_macro   0x0000000000000000      0x1df build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000      0x189
+ .debug_macro   0x0000000000000000      0x189 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000      0x15a
+ .debug_macro   0x0000000000000000      0x15a build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0xdd
+ .debug_macro   0x0000000000000000       0xdd build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x1f
+ .debug_macro   0x0000000000000000       0x1f build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x12
+ .debug_macro   0x0000000000000000       0x12 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000      0x409
+ .debug_macro   0x0000000000000000      0x409 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0xc3
+ .debug_macro   0x0000000000000000       0xc3 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000      0x120
+ .debug_macro   0x0000000000000000      0x120 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0xfb
+ .debug_macro   0x0000000000000000       0xfb build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x52
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x10
+ .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x52
+ .debug_macro   0x0000000000000000       0x52 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0xd5
+ .debug_macro   0x0000000000000000       0xd5 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x3d
+ .debug_macro   0x0000000000000000       0x3d build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000      0x176
+ .debug_macro   0x0000000000000000      0x176 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x4c
+ .debug_macro   0x0000000000000000       0x4c build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x70
+ .debug_macro   0x0000000000000000       0x70 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x7c
+ .debug_macro   0x0000000000000000       0x7c build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x17
+ .debug_macro   0x0000000000000000       0x17 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000      0x118
+ .debug_macro   0x0000000000000000      0x118 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000      0x11f
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000     0x2bf8
+ .debug_macro   0x0000000000000000     0x2bf8 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0xb2
+ .debug_macro   0x0000000000000000       0xb2 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x28
+ .debug_macro   0x0000000000000000       0x28 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x2e
+ .debug_macro   0x0000000000000000       0x2e build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x22
+ .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000     0x1011
+ .debug_macro   0x0000000000000000     0x1011 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000      0x11f
+ .debug_macro   0x0000000000000000      0x11f build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000    0x12ae9
+ .debug_macro   0x0000000000000000    0x12ae9 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x6c
+ .debug_macro   0x0000000000000000       0x6c build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000      0x147
+ .debug_macro   0x0000000000000000      0x147 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000      0x557
+ .debug_macro   0x0000000000000000      0x557 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000      0x175
+ .debug_macro   0x0000000000000000      0x175 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000       0x91
+ .debug_macro   0x0000000000000000       0x91 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_macro    0x0000000000000000      0x19b
+ .debug_macro   0x0000000000000000      0x19b build/f7-firmware-C/.extapps/Calculator2/calculator.o
+
+.debug_line     0x0000000000000000     0x25b2
+ .debug_line    0x0000000000000000      0xad1 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+ .debug_line    0x0000000000000ad1      0xd81 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_line    0x0000000000001852      0xa48 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_line    0x000000000000229a      0x318 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+
+.debug_str      0x0000000000000000   0x2846d7
+ .debug_str     0x0000000000000000    0xd41b4 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+ .debug_str     0x00000000000d41b4    0xd4fc4 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_str     0x00000000001a9178    0xd4e15 build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_str     0x000000000027df8d     0x674a build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+
+.debug_frame    0x0000000000000000      0x83c
+ .debug_frame   0x0000000000000000      0x110 build/f7-firmware-C/.extapps/Calculator2/calculator.o
+ .debug_frame   0x0000000000000110       0xe0 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+ .debug_frame   0x00000000000001f0       0x9c build/f7-firmware-C/.extapps/Calculator2/calculator_display.o
+ .debug_frame   0x000000000000028c       0x78 build/f7-firmware-C/.extapps/Calculator2/calculator_functions.o
+ .debug_frame   0x0000000000000304       0x20 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_pow10.o)
+ .debug_frame   0x0000000000000324       0x44 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-w_pow.o)
+ .debug_frame   0x0000000000000368      0x12c d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_pow.o)
+ .debug_frame   0x0000000000000494       0x30 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-e_sqrt.o)
+ .debug_frame   0x00000000000004c4      0x124 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-math_err.o)
+ .debug_frame   0x00000000000005e8       0x20 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_fabs.o)
+ .debug_frame   0x0000000000000608       0x28 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_finite.o)
+ .debug_frame   0x0000000000000630       0x2c d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a(lib_a-s_scalbn.o)
+ .debug_frame   0x000000000000065c       0xac d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x0000000000000708       0x50 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x0000000000000758       0xc4 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x000000000000081c       0x20 d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_arm_unorddf2.o)
+
+.debug_macro    0x0000000000000000      0x10e
+ .debug_macro   0x0000000000000000      0x10e build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+
+.debug_macro    0x0000000000000000       0x8d
+ .debug_macro   0x0000000000000000       0x8d build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+
+.debug_macro    0x0000000000000000       0x16
+ .debug_macro   0x0000000000000000       0x16 build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+
+.debug_macro    0x0000000000000000      0x24c
+ .debug_macro   0x0000000000000000      0x24c build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
+
+.debug_macro    0x0000000000000000       0x1c
+ .debug_macro   0x0000000000000000       0x1c build/f7-firmware-C/.extapps/Calculator2/calculator_app.o
