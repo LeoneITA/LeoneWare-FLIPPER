@@ -2026,10 +2026,10 @@ LOAD build/f7-firmware-C/.extapps/Brainfuck/views/bf_dev_env.o
 LOAD build/f7-firmware-C/.extapps/Brainfuck/brainfuck.o
 LOAD build/f7-firmware-C/.extapps/Brainfuck/worker.o
 LOAD build/f7-firmware-C/.extapps/Brainfuck/brainfuck_icons.o
-LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
-LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
-LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
-LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+LOAD d:/leoneware-flipper2.0/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD d:/leoneware-flipper2.0/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD d:/leoneware-flipper2.0/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD d:/leoneware-flipper2.0/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
 
 .text           0x0000000000000000     0x1190
  *(.text)
@@ -2900,31 +2900,31 @@ LOAD linker stubs
 .debug_macro    0x0000000000000000       0x10
  .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene.o
 
-.debug_line     0x0000000000000000     0xbc98
+.debug_line     0x0000000000000000     0xbc61
  .debug_line    0x0000000000000000      0x29b build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene.o
- .debug_line    0x000000000000029b     0x12f1 build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_dev.o
- .debug_line    0x000000000000158c     0x12f2 build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_exec.o
- .debug_line    0x000000000000287e     0x135f build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_file_create.o
- .debug_line    0x0000000000003bdd     0x135d build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_file_select.o
- .debug_line    0x0000000000004f3a     0x1333 build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_set_input.o
- .debug_line    0x000000000000626d     0x136f build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_start.o
- .debug_line    0x00000000000075dc     0x1809 build/f7-firmware-C/.extapps/Brainfuck/views/bf_dev_env.o
- .debug_line    0x0000000000008de5     0x144a build/f7-firmware-C/.extapps/Brainfuck/brainfuck.o
- .debug_line    0x000000000000a22f     0x17ff build/f7-firmware-C/.extapps/Brainfuck/worker.o
- .debug_line    0x000000000000ba2e      0x26a build/f7-firmware-C/.extapps/Brainfuck/brainfuck_icons.o
+ .debug_line    0x000000000000029b     0x12ba build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_dev.o
+ .debug_line    0x0000000000001555     0x12f2 build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_exec.o
+ .debug_line    0x0000000000002847     0x135f build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_file_create.o
+ .debug_line    0x0000000000003ba6     0x135d build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_file_select.o
+ .debug_line    0x0000000000004f03     0x1333 build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_set_input.o
+ .debug_line    0x0000000000006236     0x136f build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_start.o
+ .debug_line    0x00000000000075a5     0x1809 build/f7-firmware-C/.extapps/Brainfuck/views/bf_dev_env.o
+ .debug_line    0x0000000000008dae     0x144a build/f7-firmware-C/.extapps/Brainfuck/brainfuck.o
+ .debug_line    0x000000000000a1f8     0x17ff build/f7-firmware-C/.extapps/Brainfuck/worker.o
+ .debug_line    0x000000000000b9f7      0x26a build/f7-firmware-C/.extapps/Brainfuck/brainfuck_icons.o
 
-.debug_str      0x0000000000000000   0x863207
+.debug_str      0x0000000000000000   0x8631fc
  .debug_str     0x0000000000000000     0x4555 build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene.o
- .debug_str     0x0000000000004555    0xed760 build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_dev.o
- .debug_str     0x00000000000f1cb5    0xed764 build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_exec.o
- .debug_str     0x00000000001df419    0xedaba build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_file_create.o
- .debug_str     0x00000000002cced3    0xed8fd build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_file_select.o
- .debug_str     0x00000000003ba7d0    0xed96d build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_set_input.o
- .debug_str     0x00000000004a813d    0xed932 build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_start.o
- .debug_str     0x0000000000595a6f    0xedeca build/f7-firmware-C/.extapps/Brainfuck/views/bf_dev_env.o
- .debug_str     0x0000000000683939    0xedc97 build/f7-firmware-C/.extapps/Brainfuck/brainfuck.o
- .debug_str     0x00000000007715d0    0xedbb6 build/f7-firmware-C/.extapps/Brainfuck/worker.o
- .debug_str     0x000000000085f186     0x4081 build/f7-firmware-C/.extapps/Brainfuck/brainfuck_icons.o
+ .debug_str     0x0000000000004555    0xed755 build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_dev.o
+ .debug_str     0x00000000000f1caa    0xed764 build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_exec.o
+ .debug_str     0x00000000001df40e    0xedaba build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_file_create.o
+ .debug_str     0x00000000002ccec8    0xed8fd build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_file_select.o
+ .debug_str     0x00000000003ba7c5    0xed96d build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_set_input.o
+ .debug_str     0x00000000004a8132    0xed932 build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_start.o
+ .debug_str     0x0000000000595a64    0xedeca build/f7-firmware-C/.extapps/Brainfuck/views/bf_dev_env.o
+ .debug_str     0x000000000068392e    0xedc97 build/f7-firmware-C/.extapps/Brainfuck/brainfuck.o
+ .debug_str     0x00000000007715c5    0xedbb6 build/f7-firmware-C/.extapps/Brainfuck/worker.o
+ .debug_str     0x000000000085f17b     0x4081 build/f7-firmware-C/.extapps/Brainfuck/brainfuck_icons.o
 
 .debug_loc      0x0000000000000000     0x14b0
  .debug_loc     0x0000000000000000       0x6f build/f7-firmware-C/.extapps/Brainfuck/scenes/brainfuck_scene_dev.o
