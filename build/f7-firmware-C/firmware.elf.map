@@ -32219,7 +32219,7 @@ LOAD d:/leoneware-flipper2.0/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-ea
                 0x00000000080a61a1        0x4 build/f7-firmware-C/lib\libtoolbox.a(version.o)
  .rodata.version_get_gitbranchnum.str1.1
                 0x00000000080a61a1        0x9 build/f7-firmware-C/lib\libtoolbox.a(version.o)
-                                          0x2 (size before relaxing)
+                                          0x3 (size before relaxing)
  .rodata.version_get_builddate.str1.1
                 0x00000000080a61a1        0xb build/f7-firmware-C/lib\libtoolbox.a(version.o)
  .rodata.version_get_version.str1.1

@@ -3224,10 +3224,10 @@ LOAD build/f7-firmware-C/.extapps/POCSAG_Pager/pocsag_pager_app.o
 LOAD build/f7-firmware-C/.extapps/POCSAG_Pager/pocsag_pager_app_i.o
 LOAD build/f7-firmware-C/.extapps/POCSAG_Pager/pocsag_pager_history.o
 LOAD build/f7-firmware-C/.extapps/POCSAG_Pager/POCSAG_Pager_icons.o
-LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
-LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
-LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
-LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+LOAD d:/leoneware-flipper2.0/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD d:/leoneware-flipper2.0/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD d:/leoneware-flipper2.0/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD d:/leoneware-flipper2.0/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
 
 .text           0x0000000000000000     0x2624
  *(.text)
@@ -4545,7 +4545,7 @@ LOAD linker stubs
 .debug_macro    0x0000000000000000       0x22
  .debug_macro   0x0000000000000000       0x22 build/f7-firmware-C/.extapps/POCSAG_Pager/protocols/pcsg_generic.o
 
-.debug_line     0x0000000000000000    0x12f34
+.debug_line     0x0000000000000000    0x12efd
  .debug_line    0x0000000000000000     0x11a1 build/f7-firmware-C/.extapps/POCSAG_Pager/protocols/pcsg_generic.o
  .debug_line    0x00000000000011a1     0x161e build/f7-firmware-C/.extapps/POCSAG_Pager/protocols/pocsag.o
  .debug_line    0x00000000000027bf     0x13bc build/f7-firmware-C/.extapps/POCSAG_Pager/protocols/protocol_items.o
@@ -4555,14 +4555,14 @@ LOAD linker stubs
  .debug_line    0x0000000000007964     0x17bf build/f7-firmware-C/.extapps/POCSAG_Pager/scenes/pocsag_pager_scene_receiver_config.o
  .debug_line    0x0000000000009123     0x1429 build/f7-firmware-C/.extapps/POCSAG_Pager/scenes/pocsag_pager_scene_receiver_info.o
  .debug_line    0x000000000000a54c     0x1400 build/f7-firmware-C/.extapps/POCSAG_Pager/scenes/pocsag_pager_scene_start.o
- .debug_line    0x000000000000b94c     0x1be4 build/f7-firmware-C/.extapps/POCSAG_Pager/views/pocsag_pager_receiver.o
- .debug_line    0x000000000000d530     0x1548 build/f7-firmware-C/.extapps/POCSAG_Pager/views/pocsag_pager_receiver_info.o
- .debug_line    0x000000000000ea78     0x15e8 build/f7-firmware-C/.extapps/POCSAG_Pager/pocsag_pager_app.o
- .debug_line    0x0000000000010060     0x15ec build/f7-firmware-C/.extapps/POCSAG_Pager/pocsag_pager_app_i.o
- .debug_line    0x000000000001164c     0x1675 build/f7-firmware-C/.extapps/POCSAG_Pager/pocsag_pager_history.o
- .debug_line    0x0000000000012cc1      0x273 build/f7-firmware-C/.extapps/POCSAG_Pager/POCSAG_Pager_icons.o
+ .debug_line    0x000000000000b94c     0x1bad build/f7-firmware-C/.extapps/POCSAG_Pager/views/pocsag_pager_receiver.o
+ .debug_line    0x000000000000d4f9     0x1548 build/f7-firmware-C/.extapps/POCSAG_Pager/views/pocsag_pager_receiver_info.o
+ .debug_line    0x000000000000ea41     0x15e8 build/f7-firmware-C/.extapps/POCSAG_Pager/pocsag_pager_app.o
+ .debug_line    0x0000000000010029     0x15ec build/f7-firmware-C/.extapps/POCSAG_Pager/pocsag_pager_app_i.o
+ .debug_line    0x0000000000011615     0x1675 build/f7-firmware-C/.extapps/POCSAG_Pager/pocsag_pager_history.o
+ .debug_line    0x0000000000012c8a      0x273 build/f7-firmware-C/.extapps/POCSAG_Pager/POCSAG_Pager_icons.o
 
-.debug_str      0x0000000000000000   0xd55472
+.debug_str      0x0000000000000000   0xd55467
  .debug_str     0x0000000000000000    0xf2e92 build/f7-firmware-C/.extapps/POCSAG_Pager/protocols/pcsg_generic.o
  .debug_str     0x00000000000f2e92    0xf48df build/f7-firmware-C/.extapps/POCSAG_Pager/protocols/pocsag.o
  .debug_str     0x00000000001e7771    0xf3306 build/f7-firmware-C/.extapps/POCSAG_Pager/protocols/protocol_items.o
@@ -4572,12 +4572,12 @@ LOAD linker stubs
  .debug_str     0x00000000005b50ef    0xf395a build/f7-firmware-C/.extapps/POCSAG_Pager/scenes/pocsag_pager_scene_receiver_config.o
  .debug_str     0x00000000006a8a49    0xf3d34 build/f7-firmware-C/.extapps/POCSAG_Pager/scenes/pocsag_pager_scene_receiver_info.o
  .debug_str     0x000000000079c77d    0xf342a build/f7-firmware-C/.extapps/POCSAG_Pager/scenes/pocsag_pager_scene_start.o
- .debug_str     0x000000000088fba7    0xf3b75 build/f7-firmware-C/.extapps/POCSAG_Pager/views/pocsag_pager_receiver.o
- .debug_str     0x000000000098371c    0xf335b build/f7-firmware-C/.extapps/POCSAG_Pager/views/pocsag_pager_receiver_info.o
- .debug_str     0x0000000000a76a77    0xf3f95 build/f7-firmware-C/.extapps/POCSAG_Pager/pocsag_pager_app.o
- .debug_str     0x0000000000b6aa0c    0xf3584 build/f7-firmware-C/.extapps/POCSAG_Pager/pocsag_pager_app_i.o
- .debug_str     0x0000000000c5df90    0xf356f build/f7-firmware-C/.extapps/POCSAG_Pager/pocsag_pager_history.o
- .debug_str     0x0000000000d514ff     0x3f73 build/f7-firmware-C/.extapps/POCSAG_Pager/POCSAG_Pager_icons.o
+ .debug_str     0x000000000088fba7    0xf3b6a build/f7-firmware-C/.extapps/POCSAG_Pager/views/pocsag_pager_receiver.o
+ .debug_str     0x0000000000983711    0xf335b build/f7-firmware-C/.extapps/POCSAG_Pager/views/pocsag_pager_receiver_info.o
+ .debug_str     0x0000000000a76a6c    0xf3f95 build/f7-firmware-C/.extapps/POCSAG_Pager/pocsag_pager_app.o
+ .debug_str     0x0000000000b6aa01    0xf3584 build/f7-firmware-C/.extapps/POCSAG_Pager/pocsag_pager_app_i.o
+ .debug_str     0x0000000000c5df85    0xf356f build/f7-firmware-C/.extapps/POCSAG_Pager/pocsag_pager_history.o
+ .debug_str     0x0000000000d514f4     0x3f73 build/f7-firmware-C/.extapps/POCSAG_Pager/POCSAG_Pager_icons.o
 
 .debug_frame    0x0000000000000000      0xc28
  .debug_frame   0x0000000000000000       0x84 build/f7-firmware-C/.extapps/POCSAG_Pager/protocols/pcsg_generic.o

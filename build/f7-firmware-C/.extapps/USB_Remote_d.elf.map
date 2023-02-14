@@ -1559,10 +1559,10 @@ LOAD build/f7-firmware-C/.extapps/USB_Remote/views/hid_mouse_jiggler.o
 LOAD build/f7-firmware-C/.extapps/USB_Remote/views/hid_tiktok.o
 LOAD build/f7-firmware-C/.extapps/USB_Remote/hid.o
 LOAD build/f7-firmware-C/.extapps/USB_Remote/hid_icons.o
-LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
-LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
-LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
-LOAD d:/leoneware-flipper zero firmware/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
+LOAD d:/leoneware-flipper2.0/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD d:/leoneware-flipper2.0/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD d:/leoneware-flipper2.0/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++_nano.a
+LOAD d:/leoneware-flipper2.0/toolchain/x86_64-windows/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libsupc++_nano.a
 
 .text           0x0000000000000000     0x259c
  *(.text)
@@ -2751,29 +2751,29 @@ LOAD linker stubs
 .debug_macro    0x0000000000000000       0x10
  .debug_macro   0x0000000000000000       0x10 build/f7-firmware-C/.extapps/USB_Remote/views/hid_camera.o
 
-.debug_line     0x0000000000000000     0x96af
- .debug_line    0x0000000000000000      0xe75 build/f7-firmware-C/.extapps/USB_Remote/views/hid_camera.o
- .debug_line    0x0000000000000e75     0x1101 build/f7-firmware-C/.extapps/USB_Remote/views/hid_keyboard.o
- .debug_line    0x0000000000001f76      0xf6a build/f7-firmware-C/.extapps/USB_Remote/views/hid_keynote.o
- .debug_line    0x0000000000002ee0      0xfa5 build/f7-firmware-C/.extapps/USB_Remote/views/hid_media.o
- .debug_line    0x0000000000003e85      0xf30 build/f7-firmware-C/.extapps/USB_Remote/views/hid_mouse.o
- .debug_line    0x0000000000004db5      0xf36 build/f7-firmware-C/.extapps/USB_Remote/views/hid_mouse_clicker.o
- .debug_line    0x0000000000005ceb     0x1248 build/f7-firmware-C/.extapps/USB_Remote/views/hid_mouse_jiggler.o
- .debug_line    0x0000000000006f33     0x10c1 build/f7-firmware-C/.extapps/USB_Remote/views/hid_tiktok.o
- .debug_line    0x0000000000007ff4     0x145c build/f7-firmware-C/.extapps/USB_Remote/hid.o
- .debug_line    0x0000000000009450      0x25f build/f7-firmware-C/.extapps/USB_Remote/hid_icons.o
+.debug_line     0x0000000000000000     0x9678
+ .debug_line    0x0000000000000000      0xe3e build/f7-firmware-C/.extapps/USB_Remote/views/hid_camera.o
+ .debug_line    0x0000000000000e3e     0x1101 build/f7-firmware-C/.extapps/USB_Remote/views/hid_keyboard.o
+ .debug_line    0x0000000000001f3f      0xf6a build/f7-firmware-C/.extapps/USB_Remote/views/hid_keynote.o
+ .debug_line    0x0000000000002ea9      0xfa5 build/f7-firmware-C/.extapps/USB_Remote/views/hid_media.o
+ .debug_line    0x0000000000003e4e      0xf30 build/f7-firmware-C/.extapps/USB_Remote/views/hid_mouse.o
+ .debug_line    0x0000000000004d7e      0xf36 build/f7-firmware-C/.extapps/USB_Remote/views/hid_mouse_clicker.o
+ .debug_line    0x0000000000005cb4     0x1248 build/f7-firmware-C/.extapps/USB_Remote/views/hid_mouse_jiggler.o
+ .debug_line    0x0000000000006efc     0x10c1 build/f7-firmware-C/.extapps/USB_Remote/views/hid_tiktok.o
+ .debug_line    0x0000000000007fbd     0x145c build/f7-firmware-C/.extapps/USB_Remote/hid.o
+ .debug_line    0x0000000000009419      0x25f build/f7-firmware-C/.extapps/USB_Remote/hid_icons.o
 
-.debug_str      0x0000000000000000   0x7c092d
- .debug_str     0x0000000000000000    0xdb697 build/f7-firmware-C/.extapps/USB_Remote/views/hid_camera.o
- .debug_str     0x00000000000db697    0xdba33 build/f7-firmware-C/.extapps/USB_Remote/views/hid_keyboard.o
- .debug_str     0x00000000001b70ca    0xdb823 build/f7-firmware-C/.extapps/USB_Remote/views/hid_keynote.o
- .debug_str     0x00000000002928ed    0xdb7f8 build/f7-firmware-C/.extapps/USB_Remote/views/hid_media.o
- .debug_str     0x000000000036e0e5    0xdb82a build/f7-firmware-C/.extapps/USB_Remote/views/hid_mouse.o
- .debug_str     0x000000000044990f    0xdb856 build/f7-firmware-C/.extapps/USB_Remote/views/hid_mouse_clicker.o
- .debug_str     0x0000000000525165    0xdefb9 build/f7-firmware-C/.extapps/USB_Remote/views/hid_mouse_jiggler.o
- .debug_str     0x000000000060411e    0xdb881 build/f7-firmware-C/.extapps/USB_Remote/views/hid_tiktok.o
- .debug_str     0x00000000006df99f    0xdcbd6 build/f7-firmware-C/.extapps/USB_Remote/hid.o
- .debug_str     0x00000000007bc575     0x43b8 build/f7-firmware-C/.extapps/USB_Remote/hid_icons.o
+.debug_str      0x0000000000000000   0x7c0922
+ .debug_str     0x0000000000000000    0xdb68c build/f7-firmware-C/.extapps/USB_Remote/views/hid_camera.o
+ .debug_str     0x00000000000db68c    0xdba33 build/f7-firmware-C/.extapps/USB_Remote/views/hid_keyboard.o
+ .debug_str     0x00000000001b70bf    0xdb823 build/f7-firmware-C/.extapps/USB_Remote/views/hid_keynote.o
+ .debug_str     0x00000000002928e2    0xdb7f8 build/f7-firmware-C/.extapps/USB_Remote/views/hid_media.o
+ .debug_str     0x000000000036e0da    0xdb82a build/f7-firmware-C/.extapps/USB_Remote/views/hid_mouse.o
+ .debug_str     0x0000000000449904    0xdb856 build/f7-firmware-C/.extapps/USB_Remote/views/hid_mouse_clicker.o
+ .debug_str     0x000000000052515a    0xdefb9 build/f7-firmware-C/.extapps/USB_Remote/views/hid_mouse_jiggler.o
+ .debug_str     0x0000000000604113    0xdb881 build/f7-firmware-C/.extapps/USB_Remote/views/hid_tiktok.o
+ .debug_str     0x00000000006df994    0xdcbd6 build/f7-firmware-C/.extapps/USB_Remote/hid.o
+ .debug_str     0x00000000007bc56a     0x43b8 build/f7-firmware-C/.extapps/USB_Remote/hid_icons.o
 
 .debug_frame    0x0000000000000000      0x998
  .debug_frame   0x0000000000000000       0xc0 build/f7-firmware-C/.extapps/USB_Remote/views/hid_camera.o
